@@ -38,3 +38,6 @@ df[, s] <- sapply(df[, s], as.numeric)
 
 df$Studio <- as.factor(df$Studio)
 
+setwd("~/Documents/my-toolbox/5. Web Tools")
+write.csv(df, "Scraper-BOM-Actors.csv")
+
