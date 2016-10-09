@@ -1,776 +1,818 @@
 "","Actor","Total.Gross","Num.Movies","Avg.Per.Movie","No.1.Movie","Gross.of.No.1.Movie"
-"1","Amy Adams",1996.4,26,76.8,"Batman v Superman",312
-"2","Ben Affleck",2173.8,36,60.4,"Batman v Superman",312
+"1","Amy Adams",2014.8,26,77.5,"Batman v Superman",330.4
+"2","Ben Affleck",2192.2,36,60.9,"Batman v Superman",330.4
 "3","Casey Affleck",862.2,21,41.1,"Interstellar",188
 "4","Dianna Agron",131.6,4,32.9,"I Am Number Four",55.1
-"5","Jessica Alba",931.1,23,40.5,"Fantastic Four (2005)",154.7
+"5","Jessica Alba",952.1,24,39.7,"Fantastic Four (2005)",154.7
 "6","Alan Alda",753,22,34.2,"What Women Want",182.8
 "7","Joan Allen",854.3,24,35.6,"The Bourne Ultimatum",227.5
 "8","Tim Allen",1763,20,88.1,"Toy Story 3",415
 "9","Woody Allen",461.3,27,17.1,"Antz",90.8
 "10","Mathieu Amalric",300.7,13,23.1,"Quantum of Solace",168.4
-"11","Gillian Anderson",145.6,12,12.1,"X-Files",83.9
+"11","Gillian Anderson",145.7,13,11.2,"X-Files",83.9
 "12","Julie Andrews",663.7,13,51.1,"Sound of Music",158.7
-"13","Jennifer Aniston",1467.2,29,50.6,"Bruce Almighty",242.8
+"13","Jennifer Aniston",1541.3,31,49.7,"Bruce Almighty",242.8
 "14","Aziz Ansari",168.6,3,56.2,"Epic",107.5
-"15","Christina Applegate",1003.8,20,50.2,"Alvin and the Chipmunks 2",219.6
+"15","Christina Applegate",1116.5,21,53.2,"Alvin and the Chipmunks 2",219.6
 "16","Tom Arnold",415.9,18,23.1,"True Lies",146.3
 "17","Gemma Arterton",513.8,12,42.8,"Quantum of Solace",168.4
-"18","Kevin Bacon",1476.6,46,32.1,"Apollo 13",173.8
+"18","Kevin Bacon",1487.3,47,31.6,"Apollo 13",173.8
 "19","Penn Badgley",134.6,6,22.4,"Easy A",58.4
 "20","Alec Baldwin",2253.2,49,46,"Pearl Harbor",198.5
 "21","Christian Bale",2207.6,36,61.3,"The Dark Knight",534.9
 "22","Eric Bana",1029.2,16,64.3,"Star Trek",257.7
 "23","Anne Bancroft",548,28,19.6,"The Graduate",104.9
 "24","Antonio Banderas",2386.4,43,55.5,"Shrek 2",441.2
-"25","Elizabeth Banks",2444.6,34,71.9,"Catching Fire",424.7
+"25","Elizabeth Banks",2726.3,35,77.9,"Catching Fire",424.7
 "26","Javier Bardem",532,15,35.5,"Skyfall",304.4
 "27","Ben Barnes",287.7,5,57.5,"The Chronicles of Narnia: Prince Caspian",141.6
 "28","Drew Barrymore",1612.9,35,46.1,"E.T.",435.1
-"29","Justin Bartha",1133.8,11,103.1,"The Hangover",277.3
+"29","Justin Bartha",1134,12,94.5,"The Hangover",277.3
 "30","Jay Baruchel",1074.4,18,59.7,"How to Train Your Dragon",217.6
-"31","Kim Basinger",934.3,33,28.3,"Batman",251.2
-"32","Angela Bassett",880,25,35.2,"Green Lantern",116.6
-"33","Jason Bateman",1803.6,29,62.2,"Zootopia",307.9
-"34","Kathy Bates",2290.1,45,50.9,"Titanic",658.7
-"35","Sean Bean",1641.5,30,54.7,"Fellowship of the Ring",315.5
-"36","Kate Beckinsale",998.7,21,47.6,"Pearl Harbor",198.5
+"31","Kim Basinger",970.5,34,28.5,"Batman",251.2
+"32","Angela Bassett",881.1,25,35.2,"Green Lantern",116.6
+"33","Jason Bateman",1837.2,30,61.2,"Zootopia",341.3
+"34","Kathy Bates",2312.5,46,50.3,"Titanic",658.7
+"35","Sean Bean",1641.8,31,53,"Fellowship of the Ring",315.5
+"36","Kate Beckinsale",1015.1,23,44.1,"Pearl Harbor",198.5
 "37","Ashley Bell",56.2,2,28.1,"The Last Exorcism",41
 "38","Jamie Bell",572.8,18,31.8,"King Kong",218.1
-"39","Kristen Bell",774.1,15,51.6,"Frozen",400.7
+"39","Kristen Bell",909,16,56.8,"Frozen",400.7
 "40","Lake Bell",338.1,8,42.3,"It's Complicated",112.7
-"41","Maria Bello",921.1,28,32.9,"Grown Ups",162
+"41","Maria Bello",988.3,29,34.1,"Grown Ups",162
 "42","Monica Bellucci",1027.9,16,64.2,"Passion of the Christ",370.8
 "43","Roberto Benigni",88.9,11,8.1,"Life Is Beautiful",57.6
 "44","Annette Bening",598.7,25,23.9,"American Beauty",130.1
 "45","Melissa Benoist",50.5,2,25.3,"The Longest Ride",37.4
-"46","Peter Berg",168.4,4,42.1,"Collateral",101
+"46","Peter Berg",195.1,5,39,"Collateral",101
 "47","Gael Garcia Bernal",104.1,20,5.2,"Babel",34.3
 "48","Halle Berry",1856.6,29,64,"X-Men: The Last Stand",234.4
-"49","Paul Bettany",1305,21,62.1,"Avengers: Age of Ultron",459
+"49","Paul Bettany",1713.1,22,77.9,"Avengers: Age of Ultron",459
 "50","Justin Bieber",79.2,2,39.6,"Justin Bieber",73
 "51","Jessica Biel",772.7,22,35.1,"I Now Pronounce You Chuck and Larry",120.1
 "52","Rachel Bilson",95.3,5,19.1,"Jumper",80.2
 "53","Mike Binder",19.1,2,9.5,"The Upside of Anger",18.8
-"54","Jack Black",1614.4,24,67.3,"King Kong",218.1
+"54","Jack Black",1616.6,24,67.4,"King Kong",218.1
 "55","Lucas Black",730.2,12,60.8,"Furious 7",353
-"56","Macon Blair",NA,2,NA,"Blue Ruin",NA
+"56","Macon Blair",3.5,2,1.7,"Green Room",3.2
 "57","Cate Blanchett",2802.6,39,71.9,"Return of the King",377.8
 "58","Nikki Blonsky",118.9,3,39.6,"Hairspray (2007)",118.9
 "59","Orlando Bloom",2815.8,17,165.6,"Dead Man's Chest",423.3
-"60","Emily Blunt",921.3,23,40.1,"Into the Woods",128
-"61","Chadwick Boseman",154.6,3,51.5,"42",95
+"60","Emily Blunt",969.3,24,40.4,"Into the Woods",128
+"61","Chadwick Boseman",562.6,4,140.7,"Captain America 3",408.1
 "62","Kate Bosworth",529.3,19,27.9,"Superman Returns",200.1
-"63","John Boyega",936.9,2,468.4,"Star Wars: The Force Awakens",935.8
-"64","Luke Bracey",103.8,4,25.9,"Point Break (2015)",28.8
-"65","Zach Braff",281.7,6,47,"Oz The Great and Powerful",234.9
-"66","Kenneth Branagh",626.4,17,36.8,"Harry Potter / Chamber of Secrets",262
-"67","Russell Brand",1033.7,9,114.9,"Despicable Me 2",368.1
-"68","Marlon Brando",552.5,12,46,"The Godfather",135
-"69","Benjamin Bratt",752.2,19,39.6,"Despicable Me 2",368.1
-"70","Ewen Bremner",746.9,14,53.3,"Pearl Harbor",198.5
-"71","Abigail Breslin",1103.9,20,55.2,"Signs",228
-"72","Chris 'Ludacris' Bridges",1269.6,12,105.8,"Furious 7",353
-"73","Jeff Bridges",1640.1,49,33.5,"Iron Man",318.4
-"74","Jim Broadbent",1111.4,42,26.5,"Harry Potter 6",302
-"75","Matthew Broderick",1348,33,40.8,"Lion King",422.8
-"76","Adam Brody",341.7,16,21.4,"Mr. & Mrs. Smith",186.3
-"77","Adrien Brody",603.2,32,18.9,"King Kong",218.1
-"78","Josh Brolin",1592.1,34,46.8,"Avengers: Age of Ultron",459
-"79","Albert Brooks",722,20,36.1,"Finding Nemo",380.8
-"80","Pierce Brosnan",1455.3,37,39.3,"Mrs. Doubtfire",219.2
-"81","Chris Brown",268.7,5,53.7,"Think Like a Man",91.5
-"82","Emily Browning",238.9,9,26.5,"Lemony Snicket",118.6
-"83","Sandra Bullock",2462.6,35,70.4,"Minions",336
-"84","Billy Burke",1652.4,14,118,"The Twilight Saga: Eclipse",300.5
-"85","Ty Burrell",372.2,9,41.4,"The Incredible Hulk",134.8
-"86","Gerard Butler",1399.6,28,50,"How to Train Your Dragon",217.6
-"87","Amanda Bynes",435.6,7,62.2,"Robots",128.2
-"88","Rose Byrne",1239.9,22,56.4,"Bridesmaids",169.1
-"89","Nicolas Cage",2407,56,43,"National Treasure: Book of Secrets",220
-"90","Michael Caine",3286.4,57,57.7,"The Dark Knight",534.9
-"91","Neve Campbell",432.8,12,36.1,"Scream",103
-"92","Steve Carell",2362.4,24,98.4,"Despicable Me 2",368.1
-"93","Jim Carrey",2545.2,27,94.3,"The Grinch",260
-"94","Helena Bonham Carter",2744.8,35,78.4,"Harry Potter / Deathly Hallows (P2)",381
-"95","Dana Carvey",241.6,7,34.5,"Wayne's World",121.7
-"96","Katie Cassidy",150.4,4,37.6,"Nightmare on Elm Street",63.1
-"97","James Caviezel",730.9,20,36.5,"Passion of the Christ",370.8
-"98","Henry Cavill",849.8,10,85,"Batman v Superman",312
-"99","Cedric the Entertainer",1416.5,27,52.5,"Madagascar 3",216.4
-"100","John Cena",228.5,5,45.7,"Trainwreck",110.2
-"101","Michael Cera",489.6,11,44.5,"Juno",143.5
-"102","Jackie Chan",1613.5,26,62.1,"Rush Hour 2",226.2
-"103","Jay Chandrasekhar",NA,1,NA,"The Slammin' Salmon",NA
-"104","Jessica Chastain",1091.8,16,68.2,"The Martian",228.4
-"105","Don Cheadle",2475.4,33,75,"Avengers: Age of Ultron",459
-"106","Cher",373.1,11,33.9,"Moonstruck",80.6
-"107","Morris Chestnut",618.7,14,44.2,"Identity Thief",134.5
-"108","Jay Chou",105.3,2,52.7,"The Green Hornet",98.8
-"109","Erika Christensen",188.8,10,18.9,"Flightplan",89.7
-"110","Hayden Christensen",867.7,10,86.8,"Revenge of the Sith",380.3
-"111","Jamie Chung",570.7,8,71.3,"The Hangover Part II",254.5
-"112","Thomas Haden Church",1154.4,18,64.1,"Spider-Man 3",336.5
-"113","Jemaine Clement",387.5,9,43.1,"MIB 3",179
-"114","George Clooney",2037.4,33,61.7,"Gravity",274.1
-"115","Glenn Close",1361.1,32,42.5,"Guardians of the Galaxy",333.2
-"116","Sacha Baron Cohen",1268.9,11,115.4,"Madagascar 3",216.4
-"117","Toni Collette",925.5,36,25.7,"Sixth Sense",293.5
-"118","Lily Collins",409.5,8,51.2,"The Blind Side",256
-"119","Sean 'P. Diddy' Combs",126.4,4,31.6,"Get Him to the Greek",61
-"120","Common",843.3,16,52.7,"Wanted",134.5
-"121","Jennifer Connelly",927.4,31,29.9,"A Beautiful Mind",170.7
-"122","Sean Connery",1550.6,37,41.9,"Indiana Jones and the Last Crusade",197.2
-"123","Steve Coogan",1720,24,71.7,"Despicable Me 2",368.1
-"124","Sophie Cookson",128.3,1,128.3,"Kingsman",128.3
-"125","Jennifer Coolidge",465.5,13,35.8,"Legally Blonde",96.5
-"126","Bradley Cooper",2557.7,25,102.3,"American Sniper",350.1
-"127","Chris Cooper",1507.6,32,47.1,"The Amazing Spider-Man 2",202.9
-"128","Dominic Cooper",516.1,17,30.4,"Captain America",176.7
-"129","Sharlto Copley",569.5,8,71.2,"Maleficent",241.4
-"130","Sofia Coppola",66.7,1,66.7,"The Godfather Part III",66.7
-"131","John Corbett",584.4,13,45,"My Big Fat Greek Wedding",241.4
-"132","Abbie Cornish",284.9,12,23.7,"Limitless",79.2
-"133","Kevin Costner",1918,37,51.8,"Man of Steel",291
-"134","Jai Courtney",657.2,8,82.2,"Divergent",150.9
-"135","Brian Cox",1775.2,43,41.3,"X2: X-Men United",214.9
-"136","Courteney Cox",579.5,14,41.4,"Bedtime Stories",110.1
-"137","Tony Cox",529.1,9,58.8,"Oz The Great and Powerful",234.9
-"138","Daniel Craig",1558.5,24,64.9,"Skyfall",304.4
-"139","Bryan Cranston",1015.6,14,72.5,"Madagascar 3",216.4
-"140","Chace Crawford",78.3,4,19.6,"What to Expect When You're Expecting",41.2
-"141","Amanda Crew",174.2,6,29,"The Haunting in Connecticut",55.4
-"142","Russell Crowe",1681.2,31,54.2,"Man of Steel",291
-"143","Billy Crudup",645.4,23,28.1,"Mission: Impossible III",134
-"144","Tom Cruise",3587.2,36,99.6,"War of the Worlds",234.3
-"145","Penelope Cruz",817.6,34,24,"Pirates of the Caribbean 4",241.1
-"146","Billy Crystal",1358.6,19,71.5,"Monsters Inc.",289.9
-"147","Ice Cube",1444.1,30,48.1,"22 Jump Street",191.7
-"148","Macaulay Culkin",712.8,11,64.8,"Home Alone",285.8
-"149","Rory Culkin",289.4,11,26.3,"Signs",228
-"150","Benedict Cumberbatch",1229.3,14,87.8,"The Hobbit 2",258.4
-"151","Kaley Cuoco",258.4,4,64.6,"Hop",108.1
-"152","John Cusack",1157.6,48,24.1,"2012",166.1
-"153","Miley Cyrus",321.9,4,80.5,"Bolt",114.1
-"154","Willem Dafoe",1598.9,53,30.2,"Spider-Man",403.7
-"155","Matt Damon",2951.1,38,77.7,"The Martian",228.4
-"156","Claire Danes",552.8,23,24,"Terminator 3",150.4
-"157","Anthony Daniels",3162.1,7,451.7,"Star Wars: The Force Awakens",935.8
-"158","Paul Dano",597.4,25,23.9,"Cowboys & Aliens",100.2
-"159","Alexa Davalos",278.7,5,55.7,"Clash of the Titans",163.2
-"160","Jack Davenport",1164.1,8,145.5,"Dead Man's Chest",423.3
-"161","Viola Davis",933.1,23,40.6,"The Help",169.7
-"162","Rosario Dawson",914.5,33,27.7,"Men in Black II",190.4
-"163","Charlie Day",549.4,5,109.9,"The LEGO Movie",257.8
-"164","Daniel Day-Lewis",523.6,15,34.9,"Lincoln",182.2
-"165","Emilie de Ravin",64,4,16,"The Hills Have Eyes",41.8
-"166","Elizabeth Debicki",234.9,4,58.7,"The Great Gatsby",144.8
-"167","Brooklyn Decker",209.6,3,69.9,"Just Go With It",103
-"168","Ellen DeGeneres",426.3,5,85.3,"Finding Nemo",380.8
-"169","Dane DeHaan",293.6,7,41.9,"The Amazing Spider-Man 2",202.9
-"170","Thomas Dekker",112.4,5,22.5,"Nightmare on Elm Street",63.1
-"171","Benicio Del Toro",948.5,31,30.6,"Guardians of the Galaxy",333.2
-"172","Cara Delevigne",32,1,32,"Paper Towns",32
-"173","Julie Delpy",80,15,5.3,"American Werewolf in Paris",26.6
-"174","Judi Dench",1737.3,31,56,"Skyfall",304.4
-"175","Robert DeNiro",3077.3,78,39.5,"Meet the Fockers",279.3
-"176","Kat Dennings",672.2,11,61.1,"Thor: The Dark World",206.4
-"177","Johnny Depp",3291.6,44,74.8,"Dead Man's Chest",423.3
-"178","Eugenio Derbez",337,9,37.4,"Beverly Hills Chihuahua",94.5
-"179","Zooey Deschanel",797.5,25,31.9,"Elf",173.4
-"180","Adam DeVine",249.3,2,124.6,"Pitch Perfect 2",184.3
-"181","Danny DeVito",1826.9,44,41.5,"The Lorax",214
-"182","Jenna Dewan-Tatum",100.5,4,25.1,"Step Up",65.3
-"183","Rosemarie DeWitt",164.5,14,11.7,"The Odd Life of Timothy Green",51.9
-"184","Prabhu Dheva",NA,1,NA,"ABCD (Any Body Can Dance) 2",NA
-"185","Cameron Diaz",3031.7,34,89.2,"Shrek 2",441.2
-"186","Leonardo DiCaprio",2517.9,25,100.7,"Titanic",658.7
-"187","Vin Diesel",2151.6,18,119.5,"Furious 7",353
-"188","Matt Dillon",811,38,21.3,"Something About Mary",176.5
-"189","Snoop Dogg",281.4,8,35.2,"Starsky and Hutch",88.2
-"190","Martin Donovan",186.2,21,8.9,"Insomnia",67.4
-"191","Portia Doubleday",88.6,4,22.2,"Big Mommas: Like Father Like Son",37.9
-"192","Michael Douglas",1776.9,36,49.4,"Ant-Man",180.2
-"193","Robert Downey Jr.",3539.3,52,68.1,"The Avengers",623.4
-"194","David Duchovny",285.6,19,15,"X-Files",83.9
-"195","Hilary Duff",402.3,10,40.2,"Cheaper by the Dozen",138.6
-"196","Josh Duhamel",1336.1,13,102.8,"Transformers 2",402.1
-"197","Clark Duke",353.7,8,44.2,"The Croods",187.2
-"198","Michael Clarke Duncan",1201.7,21,57.2,"Armageddon",201.6
-"199","Kirsten Dunst",1759.8,31,56.8,"Spider-Man",403.7
-"200","Mark Duplass",114.9,4,28.7,"Tammy",84.5
-"201","Robert Duvall",1814.4,55,33,"Deep Impact",140.5
-"202","Michael Ealy",645.6,13,49.7,"Think Like a Man",91.5
-"203","Clint Eastwood",1710.9,46,37.2,"Gran Torino",148.1
-"204","Aaron Eckhart",1314,28,46.9,"The Dark Knight",534.9
-"205","Zac Efron",852.4,16,53.3,"The Lorax",214
-"206","Taron Egerton",145.8,3,48.6,"Kingsman",128.3
-"207","Colin Egglesfield",39.1,2,19.6,"Something Borrowed",39
-"208","Jesse Eisenberg",1127.1,25,45.1,"Batman v Superman",312
-"209","Chiwetel Ejiofor",894.8,18,49.7,"The Martian",228.4
-"210","Idris Elba",2138.7,25,85.5,"Avengers: Age of Ultron",459
-"211","Ansel Elgort",506.1,6,84.3,"Divergent",150.9
-"212","Sam Elliott",714.7,22,32.5,"Hulk",132.2
-"213","Cary Elwes",1297.8,28,46.3,"Twister",241.7
-"214","Mireille Enos",252.8,2,126.4,"World War Z",202.4
-"215","Omar Epps",353.5,15,23.6,"Scream 2",101.4
-"216","Chris Evans",2049.8,22,93.2,"The Avengers",623.4
-"217","Alice Eve",559,15,37.3,"Star Trek Into Darkness",228.8
-"218","Dakota Fanning",1407.7,22,64,"The Twilight Saga: Eclipse",300.5
-"219","Anna Faris",1516.4,22,68.9,"Alvin and the Chipmunks 2",219.6
-"220","Chris Farley",129.7,6,21.6,"Tommy Boy",32.7
-"221","Vera Farmiga",675.2,23,29.4,"The Conjuring",137.4
-"222","Colin Farrell",1095.9,31,35.4,"Minority Report",132.1
-"223","Michael Fassbender",982.4,20,49.1,"X-Men: Days of Future Past",233.9
-"224","Jon Favreau",1345.2,17,79.1,"Iron Man 3",409
-"225","Shiloh Fernandez",102.5,7,14.6,"Evil Dead (2013)",54.2
-"226","Will Ferrell",2166.9,31,69.9,"The LEGO Movie",257.8
-"227","America Ferrera",574.6,14,41,"How to Train Your Dragon",217.6
-"228","Tina Fey",640.7,11,58.2,"Megamind",148.4
-"229","Sally Field",2072.1,28,74,"Forrest Gump",330.3
-"230","Ralph Fiennes",2676.9,34,78.7,"Harry Potter / Deathly Hallows (P2)",381
-"231","Jessica Brown Findlay",18.4,2,9.2,"Winter's Tale",12.6
-"232","Colin Firth",1103.2,31,35.6,"Mamma Mia!",144.1
-"233","Jenna Fischer",187.7,8,23.5,"Blades of Glory",118.6
-"234","Laurence Fishburne",2200.2,36,61.1,"Batman v Superman",312
-"235","Carrie Fisher",2257.7,17,132.8,"Star Wars: The Force Awakens",935.8
-"236","Isla Fisher",1109.2,16,69.3,"Wedding Crashers",209.3
-"237","Dan Fogler",355.4,11,32.3,"Horton Hears a Who!",154.5
-"238","Harrison Ford",4870.9,41,118.8,"Star Wars: The Force Awakens",935.8
-"239","Will Forte",267.6,12,22.3,"Cloudy with a Chance of Meatballs",124.9
-"240","Ben Foster",400.4,18,22.2,"Lone Survivor",125.1
-"241","Jodie Foster",1051.8,26,40.5,"Silence of the Lambs",130.7
-"242","Megan Fox",1016.9,9,113,"Transformers 2",402.1
-"243","Jamie Foxx",2025.4,29,69.8,"The Amazing Spider-Man 2",202.9
-"244","Claire Foy",32.6,2,16.3,"Season of the Witch",24.8
-"245","Cecile de France",67.3,8,8.4,"Hereafter",32.7
-"246","James Franco",2103.9,37,56.9,"Spider-Man",403.7
-"247","Brendan Fraser",1105.6,29,38.1,"Mummy Returns",202
-"248","Morgan Freeman",4377.8,59,74.2,"The Dark Knight",534.9
-"249","Anna Friel",169.4,11,15.4,"Limitless",79.2
-"250","Nick Frost",395.3,11,35.9,"Snow White and the Huntsman",155.3
-"251","Josh Gad",763,11,69.4,"Frozen",400.7
-"252","Gal Gadot",1109.6,8,138.7,"Batman v Superman",312
-"253","Zach Galifianakis",1332,16,83.3,"The Hangover",277.3
-"254","Vincent Gallo",5.1,8,NA,"Buffalo '66",2.4
-"255","James Gandolfini",578.2,28,20.6,"Crimson Tide",91.4
-"256","Romola Garai",134.4,11,12.2,"Atonement",50.9
-"257","Andrew Garfield",588.7,9,65.4,"The Amazing Spider-Man",262
-"258","James Garner",481.5,13,37,"Maverick",101.6
-"259","Jennifer Garner",976.2,20,48.8,"Juno",143.5
-"260","Sarah Michelle Gellar",627.4,13,48.3,"Scooby-Doo",153.3
-"261","Richard Gere",1408.8,42,33.5,"Pretty Woman",178.4
-"262","Greta Gerwig",132.7,13,10.2,"No Strings Attached",70.7
-"263","Paul Giamatti",1891.7,44,43,"The Hangover Part II",254.5
-"264","Mel Gibson",2113.9,34,62.2,"Signs",228
-"265","Tyrese Gibson",2248.6,15,149.9,"Transformers 2",402.1
-"266","Cam Gigandet",440.6,11,40.1,"Twilight",192.8
-"267","Karen Gillan",360.9,2,180.4,"Guardians of the Galaxy",333.2
-"268","Brendan Gleeson",1773.4,41,43.3,"Harry Potter / Goblet of Fire",290
-"269","Danny Glover",1490.2,41,36.3,"2012",166.1
-"270","Jeff Goldblum",1373.4,21,65.4,"Jurassic Park",402.5
-"271","Selena Gomez",392.1,7,56,"Hotel Transylvania 2",169.7
-"272","Matthew Goode",305.9,13,23.5,"Watchmen",107.5
-"273","Cuba Gooding Jr.",1335,28,47.7,"Pearl Harbor",198.5
-"274","Ginnifer Goodwin",623.9,9,69.3,"Zootopia",307.9
-"275","Keith Gordon",91.3,1,91.3,"Back to School",91.3
-"276","Zachary Gordon",165.7,3,55.2,"Diary of a Wimpy Kid",64
-"277","Joseph Gordon-Levitt",1557,33,47.2,"The Dark Knight Rises",448.1
-"278","Ryan Gosling",474.1,18,26.3,"Crazy Stupid Love.",84.4
-"279","Topher Grace",796,13,61.2,"Spider-Man 3",336.5
-"280","Kelsey Grammer",611.6,11,55.6,"Transformers 4",245.4
-"281","Hugh Grant",903.1,27,33.4,"Notting Hill",116.1
-"282","Eva Green",487.7,11,44.3,"Casino Royale",167.4
-"283","Seth Green",962.8,20,48.1,"Goldmember",213.3
-"284","Ashley Greene",1368.8,10,136.9,"The Twilight Saga: Eclipse",300.5
-"285","Clark Gregg",1599.3,15,106.6,"The Avengers",623.4
-"286","Rupert Grint",2390.5,13,183.9,"Harry Potter / Deathly Hallows (P2)",381
-"287","Ioan Gruffudd",631.2,14,45.1,"San Andreas",155.2
-"288","Christopher Guest",182.8,2,91.4,"Night at the Museum II",177.2
-"289","Ryan Guzman",85.4,3,28.5,"The Boy Next Door",35.4
-"290","Jake Gyllenhaal",886.2,23,38.5,"The Day After Tomorrow",186.7
-"291","Maggie Gyllenhaal",976.7,26,37.6,"The Dark Knight",534.9
-"292","Lukas Haas",442.8,22,20.1,"The Revenant",183.2
-"293","Corey Haim",141.1,10,14.1,"The Lost Boys",32.2
-"294","Jackie Earle Haley",622.6,15,41.5,"Shutter Island",128
-"295","Rebecca Hall",676.2,15,45.1,"Iron Man 3",409
-"296","Regina Hall",823.7,15,54.9,"Scary Movie",157
-"297","Mark Hamill",2172.3,11,197.5,"Star Wars: The Force Awakens",935.8
-"298","Linda Hamilton",264.1,5,52.8,"Terminator 2",204.8
-"299","Jon Hamm",722.2,11,65.7,"Minions",336
-"300","Armie Hammer",334.3,6,55.7,"The Social Network",97
-"301","Tom Hanks",4336.5,43,100.8,"Toy Story 3",415
-"302","Tom Hardy",1274.7,18,70.8,"The Dark Knight Rises",448.1
-"303","Woody Harrelson",2469,48,51.4,"Catching Fire",424.7
-"304","Ed Harris",1771.6,49,36.2,"National Treasure: Book of Secrets",220
-"305","Jamie Harris",314.4,7,44.9,"Rise of the Planet of the Apes",176.8
-"306","Jared Harris",851.5,27,31.5,"Sherlock Holmes 2",186.8
-"307","Naomie Harris",1500.9,15,100.1,"Dead Man's Chest",423.3
-"308","Neil Patrick Harris",811.5,14,58,"Gone Girl",167.8
-"309","Kevin Hart",923.9,18,51.3,"Ride Along",134.9
-"310","Josh Hartnett",678.4,18,37.7,"Pearl Harbor",198.5
-"311","Anne Hathaway",2339.4,24,97.5,"The Dark Knight Rises",448.1
-"312","Rutger Hauer",246.2,26,9.5,"Sin City",74.1
-"313","Ethan Hawke",685.5,41,16.7,"Dead Poets Society",95.9
-"314","Sally Hawkins",336.7,15,22.4,"Godzilla",200.7
-"315","Lena Headey",554,21,26.4,"300",210.6
-"316","Amber Heard",290.1,14,20.7,"Pineapple Express",87.3
-"317","Jon Heder",348.1,8,43.5,"Blades of Glory",118.6
-"318","Garrett Hedlund",596.4,12,49.7,"Tron Legacy",172.1
-"319","Katherine Heigl",745.7,16,46.6,"Knocked Up",148.8
-"320","Ed Helms",1131.7,11,102.9,"The Hangover",277.3
-"321","Chris Hemsworth",1846.4,13,142,"The Avengers",623.4
-"322","Liam Hemsworth",1686.9,9,187.4,"Catching Fire",424.7
-"323","Lance Henriksen",548.4,24,22.9,"Scream 3",89.1
-"324","Taraji P. Henson",924.6,18,51.4,"The Karate Kid",176.6
-"325","Katharine Hepburn",194.2,3,64.7,"On Golden Pond",119.3
-"326","Werner Herzog",80.4,4,20.1,"Jack Reacher",80.1
-"327","Jennifer Love Hewitt",333.6,12,27.8,"Garfield",75.4
-"328","Tom Hiddleston",1214.2,12,101.2,"The Avengers",623.4
-"329","Freddie Highmore",404.6,8,50.6,"Charlie and the Chocolate Factory",206.5
-"330","Jonah Hill",2479,27,91.8,"The LEGO Movie",257.8
-"331","Dustin Hoffman",2519.9,42,60,"Meet the Fockers",279.3
-"332","Philip Seymour Hoffman",2182,39,55.9,"Catching Fire",424.7
-"333","Boyd Holbrook",58.1,4,14.5,"Run All Night",26.5
-"334","Tom Holland",64.6,4,16.2,"In the Heart of the Sea",25
-"335","Ian Holm",1307.6,30,43.6,"Return of the King",377.8
-"336","Katie Holmes",573.7,22,26.1,"Batman Begins",206.9
-"337","Anthony Hopkins",2033.1,52,39.1,"Mission: Impossible II",215.4
-"338","Cody Horn",154.9,4,38.7,"Magic Mike",113.7
-"339","Thomas Horn",31.8,1,31.8,"Extremely Loud & Incredibly Close",31.8
-"340","Julianne Hough",201.1,4,50.3,"Safe Haven",71.3
-"341","Nicholas Hoult",729,10,72.9,"X-Men: Days of Future Past",233.9
-"342","Whitney Houston",261.6,4,65.4,"Bodyguard",122
-"343","Bryce Dallas Howard",1382.8,8,172.9,"Jurassic World",652.3
-"344","Ron Howard",139.1,4,34.8,"American Graffiti",115
-"345","Terrence Howard",1399,33,42.4,"Iron Man",318.4
-"346","Vanessa Hudgens",287.4,8,35.9,"Journey 2",103.9
-"347","Kate Hudson",721.9,24,30.1,"Kung Fu Panda 3",141.3
-"348","Bonnie Hunt",1555.5,18,86.4,"Zootopia",307.9
-"349","Helen Hunt",996.9,20,49.8,"Twister",241.7
-"350","Holly Hunter",1068.3,27,39.6,"Batman v Superman",312
-"351","Rosie Huntington-Whiteley",506,2,253,"Transformers 3",352.4
-"352","William Hurt",852.6,26,32.8,"The Incredible Hulk",134.8
-"353","Josh Hutcherson",2094.7,17,123.2,"Catching Fire",424.7
-"354","Rhys Ifans",601.5,26,23.1,"The Amazing Spider-Man",262
-"355","Dustin Ingram",104.1,2,52,"Paranormal Activity 3",104
-"356","Jeremy Irons",1146.2,22,52.1,"Lion King",422.8
-"357","Max Irons",97.6,4,24.4,"Red Riding Hood",37.7
-"358","Tony Jaa",369.7,6,61.6,"Furious 7",353
-"359","Hugh Jackman",2289.1,25,91.6,"X-Men: The Last Stand",234.4
-"360","Brandon T. Jackson",407.9,8,51,"Tropic Thunder",110.5
-"361","Quinton 'Rampage' Jackson",77.3,2,38.7,"The A-Team",77.2
-"362","Samuel L. Jackson",4646.8,68,68.3,"The Avengers",623.4
-"363","Kevin James",1390,13,106.9,"Hitch",179.5
-"364","Theo James",407.6,4,101.9,"Divergent",150.9
-"365","Thomas Jane",208.5,17,12.3,"Deep Blue Sea",73.6
-"366","Famke Janssen",1428.6,31,46.1,"X-Men: The Last Stand",234.4
-"367","Jim Jarmusch",1.3,1,1.3,"Blue in the Face",1.3
-"368","Scarlett Johansson",2679.7,36,74.4,"The Avengers",623.4
-"369","Aaron Johnson",861.8,10,86.2,"Avengers: Age of Ultron",459
-"370","Dwayne Johnson",2147.4,22,97.6,"Furious 7",353
-"371","Jake Johnson",811.1,9,90.1,"Jurassic World",652.3
-"372","Angelina Jolie",2177.3,32,68,"Maleficent",241.4
-"373","Felicity Jones",50.1,10,5,"The Theory of Everything",35.9
-"374","January Jones",378.1,9,42,"X-Men: First Class",146.4
-"375","Rashida Jones",357.9,11,32.5,"The Social Network",97
-"376","Tommy Lee Jones",2501,44,56.8,"Men in Black",250.7
-"377","Michael B. Jordan",272.6,5,54.5,"Creed",109.8
-"378","Seu Jorge",36.1,6,6,"The Life Aquatic",24
-"379","Milla Jovovich",504.2,24,21,"Fifth Element",63.8
-"380","Ashley Judd",1044.2,27,38.7,"Divergent",150.9
-"381","Miranda July",4.5,2,2.2,"Me and You and Everyone We Know",3.9
-"382","Mindy Kaling",470.9,3,157,"Inside Out",356.5
-"383","Philip Kaufman",163.2,7,23.3,"Rising Sun",63.2
-"384","Zoe Kazan",197.2,14,14.1,"It's Complicated",112.7
-"385","Diane Keaton",1239.2,37,33.5,"The Godfather",135
-"386","Michael Keaton",2126.1,35,60.7,"Toy Story 3",415
-"387","Minka Kelly",37.3,1,37.3,"The Roommate",37.3
-"388","Alex Kendrick",78.2,3,26.1,"Courageous",34.5
-"389","Anna Kendrick",674.2,17,39.7,"Pitch Perfect 2",184.3
-"390","Irrfan Khan",1187,7,169.6,"Jurassic World",652.3
-"391","Nicole Kidman",1664.6,42,39.6,"Happy Feet",198
-"392","Val Kilmer",1040.9,34,30.6,"Batman Forever",184
-"393","Joey King",559.5,6,93.3,"Oz The Great and Powerful",234.9
-"394","Ben Kingsley",1809.7,50,36.2,"Iron Man 3",409
-"395","Greg Kinnear",1147.4,34,33.7,"As Good as It Gets",148.5
-"396","Taylor Kitsch",551.7,8,69,"X-Men Origins: Wolverine",179.9
-"397","Chris Klein",481.6,14,34.4,"American Pie 2",145.1
-"398","Kevin Kline",991.7,38,26.1,"Wild Wild West",113.8
-"399","Keira Knightley",1533.7,24,63.9,"Dead Man's Chest",423.3
-"400","Beyonce Knowles",613.1,7,87.6,"Goldmember",213.3
-"401","Johnny Knoxville",930.1,15,62,"Ninja Turtles",191.2
-"402","Boris Kodjoe",286.4,8,35.8,"Madea's Family Reunion",63.3
-"403","John Krasinski",414.3,17,24.4,"It's Complicated",112.7
-"404","Peter Krause",155.6,4,38.9,"Truman Show",125.6
-"405","Lenny Kravitz",996.9,4,249.2,"Catching Fire",424.7
-"406","Lisa Kudrow",434.4,18,24.1,"Analyze This",106.9
-"407","Mila Kunis",985.2,16,61.6,"Oz The Great and Powerful",234.9
-"408","Olga Kurylenko",391.7,12,32.6,"Quantum of Solace",168.4
-"409","Ashton Kutcher",957.2,19,50.4,"Cheaper by the Dozen",138.6
-"410","Shia LaBeouf",2128.6,20,106.4,"Transformers 2",402.1
-"411","Diane Lane",1765.5,39,45.3,"Inside Out",356.5
-"412","Frank Langella",679.5,32,21.2,"Superman Returns",200.1
-"413","Larry the Cable Guy",464.1,6,77.4,"Cars",244.1
-"414","Ali Larter",552.7,12,46.1,"Legally Blonde",96.5
-"415","Sanaa Lathan",452.6,13,34.8,"Alien Vs. Predator",80.3
-"416","Queen Latifah",1866.1,29,64.3,"Ice Age 3",196.6
-"417","Melanie Laurent",245.8,6,41,"Inglourious Basterds",120.5
-"418","Hugh Laurie",890.3,17,52.4,"Monsters Vs. Aliens",198.4
-"419","Taylor Lautner",1482.2,8,185.3,"The Twilight Saga: Eclipse",300.5
-"420","Jude Law",1630.6,38,42.9,"Sherlock Holmes",209
-"421","Jennifer Lawrence",2213.4,16,138.3,"Catching Fire",424.7
-"422","Martin Lawrence",1291,24,53.8,"Wild Hogs",168.3
-"423","Sharon Leal",297.3,6,49.5,"Dreamgirls",103.4
-"424","Matt LeBlanc",73.6,3,24.5,"Lost in Space",69.1
-"425","Heath Ledger",955.6,15,63.7,"The Dark Knight",534.9
-"426","Christopher Lee",1323.8,7,189.1,"Revenge of the Sith",380.3
-"427","John Leguizamo",1810.4,50,36.2,"Ice Age 3",196.6
-"428","Melissa Leo",755.5,29,26.1,"The Equalizer",101.5
-"429","Tea Leoni",730.2,13,56.2,"Jurassic Park III",181.2
-"430","Logan Lerman",502.5,13,38.7,"Noah",101.2
-"431","Zachary Levi",697,5,139.4,"Alvin and the Chipmunks 2",219.6
-"432","Jet Li",822,17,48.4,"Lethal Weapon 4",130.4
-"433","Matthew Lillard",716.7,25,28.7,"Scooby-Doo",153.3
-"434","Evangeline Lilly",779.2,4,194.8,"The Hobbit 2",258.4
-"435","Laura Linney",758.8,32,23.7,"Truman Show",125.6
-"436","Lucy Liu",1036.1,18,57.6,"Kung Fu Panda",215.4
-"437","Blake Lively",418.6,8,52.3,"Green Lantern",116.6
-"438","Ron Livingston",425.7,24,17.7,"The Conjuring",137.4
-"439","Lindsay Lohan",492.4,15,32.8,"Freaky Friday",110.2
-"440","Justin Long",1540.9,33,46.7,"Alvin and the Chipmunks 2",219.6
-"441","Nia Long",775.9,20,38.8,"Big Momma's House",117.6
-"442","Jennifer Lopez",1190.3,26,45.8,"Home",177.4
-"443","Rob Lowe",607.5,22,27.6,"The Spy Who Shagged Me",206
-"444","Jessica Lucas",229.3,5,45.9,"Cloverfield",80
-"445","Josh Lucas",791.1,24,33,"A Beautiful Mind",170.7
-"446","Derek Luke",582.8,17,34.3,"Captain America",176.7
-"447","Diego Luna",337.9,13,26,"Elysium",93.1
-"448","Kellan Lutz",1482.8,16,92.7,"The Twilight Saga: Eclipse",300.5
-"449","Bernie Mac",989.6,14,70.7,"Ocean's Eleven",183.4
-"450","Seth MacFarlane",479.4,5,95.9,"Ted",218.8
-"451","Anthony Mackie",1461.2,32,45.7,"Avengers: Age of Ultron",459
-"452","William H. Macy",1246.2,38,32.8,"Jurassic Park III",181.2
-"453","Madonna",349.3,14,24.9,"League of Their Own",107.5
-"454","Virginia Madsen",476,30,15.9,"Sideways",71.5
-"455","Tobey Maguire",1537.5,14,109.8,"Spider-Man",403.7
-"456","John Malkovich",1488.1,49,30.4,"Transformers 3",352.4
-"457","Jena Malone",1036.2,19,54.5,"Catching Fire",424.7
-"458","Leslie Mann",1473.1,24,61.4,"Big Daddy",163.5
-"459","Thomas Mann",139.3,4,34.8,"Hansel and Gretel",55.7
-"460","Rooney Mara",383.9,14,27.4,"Girl with the Dragon Tattoo",102.5
-"461","Brit Marling",17.2,7,2.5,"Arbitrage",7.9
-"462","James Marsden",1845.3,32,57.7,"X-Men: The Last Stand",234.4
-"463","Garry Marshall",67.2,1,67.2,"Race to Witch Mountain",67.2
-"464","Demetri Martin",17.4,3,5.8,"Taking Woodstock",7.5
-"465","Steve Martin",1784,36,49.6,"Home",177.4
-"466","Peter Mayhew",1996.6,4,499.2,"Star Wars: The Force Awakens",935.8
-"467","Rachel McAdams",1391.8,23,60.5,"Wedding Crashers",209.3
-"468","Callan McAuliffe",56.9,2,28.4,"I Am Number Four",55.1
-"469","James McAvoy",786.6,19,41.4,"X-Men: Days of Future Past",233.9
-"470","Danny McBride",530.3,15,35.4,"Tropic Thunder",110.5
-"471","Melissa McCarthy",960.9,12,80.1,"Bridesmaids",169.1
-"472","Matthew McConaughey",1528.8,32,47.8,"Interstellar",188
-"473","Ian McDiarmid",1474.8,4,368.7,"The Phantom Menace",474.5
-"474","Frances McDormand",1327.1,33,40.2,"Transformers 3",352.4
-"475","Ewan McGregor",2081.5,44,47.3,"The Phantom Menace",474.5
-"476","Ian McKellen",3150.4,31,101.6,"Return of the King",377.8
-"477","Katherine McPhee",67.1,2,33.6,"The House Bunny",48.2
-"478","Leighton Meester",264,10,26.4,"Date Night",98.7
-"479","Carlos Mencia",57,2,28.5,"The Heartbreak Kid",36.8
-"480","Eva Mendes",873.4,19,46,"Hitch",179.5
-"481","Scott Mescudi",43.7,3,14.6,"Need for Speed",43.6
-"482","Chris Messina",210.8,17,12.4,"Julie & Julia",94.1
-"483","Breckin Meyer",433.6,12,36.1,"Garfield",75.4
-"484","Jonathan Rhys Meyers",335.9,17,19.8,"Mission: Impossible III",134
-"485","Alyson Michalka",100.9,3,33.6,"Easy A",58.4
-"486","Bette Midler",754.5,20,37.7,"First Wives Club",105.5
-"487","Ezra Miller",137.1,9,15.2,"Trainwreck",110.2
-"488","Nicki Minaj",105.5,2,52.8,"The Other Woman",83.9
-"489","Christopher Mintz-Plasse",965.1,12,80.4,"How to Train Your Dragon",217.6
-"490","Helen Mirren",1284.3,44,29.2,"Monsters University",268.5
-"491","John Cameron Mitchell",9.3,3,3.1,"Band of the Hand",4.9
-"492","Radha Mitchell",530.7,22,24.1,"Olympus Has Fallen",98.9
-"493","Alfred Molina",1172.8,40,29.3,"Spider-Man 2",373.6
-"494","Michelle Monaghan",666.6,17,39.2,"Mission: Impossible III",134
-"495","Demi Moore",1025.3,30,34.2,"Ghost",217.6
-"496","Joel David Moore",915.1,14,65.4,"Avatar",760.5
-"497","Julianne Moore",1688.2,53,31.9,"Mockingjay Part 1",337.1
-"498","Mandy Moore",421.5,12,35.1,"Tangled",200.8
-"499","Chloe Moretz",731,19,38.5,"The Equalizer",101.5
-"500","Jeffrey Dean Morgan",287.6,13,22.1,"Watchmen",107.5
-"501","Tracy Morgan",456,12,38,"Rio 2",131.5
-"502","Viggo Mortensen",1524.4,28,54.4,"Return of the King",377.8
-"503","Carrie-Anne Moss",850.1,16,53.1,"The Matrix Reloaded",281.6
-"504","Elisabeth Moss",132.4,14,9.5,"Get Him to the Greek",61
-"505","Bridget Moynahan",604.6,12,50.4,"I Robot",144.8
-"506","Carey Mulligan",320,11,29.1,"The Great Gatsby",144.8
-"507","Frankie Muniz",233,7,33.3,"Racing Stripes",49.8
-"508","Brittany Murphy",706.9,16,44.2,"Happy Feet",198
-"509","Cillian Murphy",707,15,47.1,"Inception",292.6
-"510","Eddie Murphy",3810.4,38,100.3,"Shrek 2",441.2
-"511","Bill Murray",1800.7,43,41.9,"Ghostbusters",242.2
-"512","Mike Myers",2211.4,15,147.4,"Shrek 2",441.2
-"513","Naturi Naughton",47.2,2,23.6,"Lottery Ticket",24.7
-"514","Liam Neeson",2941.8,62,47.4,"The Phantom Menace",474.5
-"515","Craig T. Nelson",1122.1,21,53.4,"The Incredibles",261.4
-"516","Paul Newman",1082,20,54.1,"Cars",244.1
-"517","Thandie Newton",904,23,39.3,"Mission: Impossible II",215.4
-"518","Mike Nichols",NA,1,NA,"The Designated Mourner",NA
-"519","Jack Nicholson",1795.5,34,52.8,"Batman",251.2
-"520","Leslie Nielsen",617.9,19,32.5,"Scary Movie 3",110
-"521","Leonard Nimoy",820.3,11,74.6,"Star Trek",257.7
-"522","Dean Norris",39.9,5,8,"The Secret in their Eyes (2015)",20.2
-"523","Edward Norton",943,23,41,"The Incredible Hulk",134.8
-"524","Lupita Nyong'o",1195,4,298.7,"Star Wars: The Force Awakens",935.8
-"525","Michael Nyqvist",303.6,8,37.9,"Mission: Impossible 4",209.4
-"526","Jack O'Connell",225.7,7,32.2,"Unbroken",115.6
-"527","Chris O'Donnell",779.3,19,41,"Batman Forever",184
-"528","Jason O'Mara",77.1,2,38.5,"Resident Evil: Extinction",50.6
-"529","Sophie Okonedo",103.5,7,14.8,"The Secret Life of Bees",37.8
-"530","Gary Oldman",3285.6,38,86.5,"The Dark Knight",534.9
-"531","Mary-Kate Olsen",63.5,4,15.9,"Beastly",27.9
-"532","Timothy Olyphant",641.9,20,32.1,"Live Free or Die Hard",134.5
-"533","Clive Owen",506.5,25,20.3,"Inside Man",88.5
-"534","David Oyelowo",504.2,11,45.8,"Rise of the Planet of the Apes",176.8
-"535","Al Pacino",1457.3,39,37.4,"The Godfather",135
-"536","Ellen Page",714,14,51,"Inception",292.6
-"537","Adrianne Palicki",210.4,4,52.6,"G.I. Joe: Retaliation",122.5
-"538","Teresa Palmer",401.6,14,28.7,"Bedtime Stories",110.1
-"539","Gwyneth Paltrow",1834,33,55.6,"Iron Man 3",409
-"540","Hayden Panettiere",338.4,12,28.2,"Remember the Titans",115.7
-"541","Anna Paquin",997.6,19,52.5,"X-Men: The Last Stand",234.4
-"542","Sarah Jessica Parker",990.6,28,35.4,"Sex and the City",152.6
-"543","Dev Patel",384.2,6,64,"Slumdog Millionaire",141.3
-"544","Robert Pattinson",1734.2,13,133.4,"The Twilight Saga: Eclipse",300.5
-"545","Paula Patton",574.7,12,47.9,"Mission: Impossible 4",209.4
-"546","Guy Pearce",1211.1,31,39.1,"Iron Man 3",409
-"547","Amanda Peet",882,26,33.9,"2012",166.1
-"548","Simon Pegg",1460.5,17,85.9,"Star Trek",257.7
-"549","Kal Penn",415.2,13,31.9,"Superman Returns",200.1
-"550","Sean Penn",760.1,38,20,"Mystic River",90.1
-"551","Piper Perabo",581.2,16,36.3,"Cheaper by the Dozen",138.6
-"552","Ron Perlman",659.8,20,33,"Tangled",200.8
-"553","Alex Ross Perry",NA,1,NA,"7 Chinese Brothers",NA
-"554","Matthew Perry",200.9,7,28.7,"17 Again",64.2
-"555","Tyler Perry",866.7,15,57.8,"Gone Girl",167.8
-"556","Alex Pettyfer",258.3,6,43.1,"Magic Mike",113.7
-"557","Michelle Pfeiffer",1431.1,36,39.8,"Batman Returns",162.8
-"558","Ryan Phillippe",400.4,16,25,"I Know What You Did Last Summer",72.6
-"559","Joaquin Phoenix",1013.2,27,37.5,"Signs",228
-"560","Rosamund Pike",702.9,18,39,"Gone Girl",167.8
-"561","Chris Pine",1152,17,67.8,"Star Trek",257.7
-"562","Jada Pinkett-Smith",1699.4,22,77.2,"The Matrix Reloaded",281.6
-"563","Freida Pinto",406.2,8,50.8,"Rise of the Planet of the Apes",176.8
-"564","Brad Pitt",2680.9,40,67,"World War Z",202.4
-"565","Aubrey Plaza",92.3,9,10.3,"Funny People",51.9
-"566","Jesse Plemons",349,10,34.9,"Bridge of Spies",72.3
-"567","Christopher Plummer",837.9,19,44.1,"National Treasure",173
-"568","Sydney Pollack",533.3,10,53.3,"Tootsie",177.2
-"569","Sarah Polley",116.2,19,6.1,"Dawn of the Dead",59
-"570","Imogen Poots",133.4,15,8.9,"Need for Speed",43.6
-"571","Natalie Portman",2062.6,26,79.3,"The Phantom Menace",474.5
-"572","Parker Posey",587.6,31,19,"Superman Returns",200.1
-"573","Franka Potente",360,9,40,"The Bourne Supremacy",176.2
-"574","Bel Powley",1.7,2,NA,"The Diary of a Teenage Girl",1.5
-"575","Chris Pratt",1499.9,12,125,"Jurassic World",652.3
-"576","Freddie Prinze Jr.",518.7,16,32.4,"Scooby-Doo",153.3
-"577","Jonathan Pryce",1567.5,32,49,"Dead Man's Chest",423.3
-"578","James Purefoy",185.9,4,46.5,"John Carter",73.1
-"579","Dennis Quaid",1687.4,55,30.7,"The Day After Tomorrow",186.7
-"580","Randy Quaid",948.7,38,25,"Independence Day",306.2
-"581","Daniel Radcliffe",2565.1,15,171,"Harry Potter / Deathly Hallows (P2)",381
-"582","Josh Radnor",NA,3,NA,"Liberal Arts",NA
-"583","Edgar Ramirez",305.5,7,43.6,"Zero Dark Thirty",95.7
-"584","Harold Ramis",11.6,1,11.6,"The Last Kiss (2006)",11.6
-"585","Noomi Rapace",359.2,9,39.9,"Sherlock Holmes 2",186.8
-"586","Emily Ratajkowski",3.6,1,3.6,"We Are Your Friends",3.6
-"587","Jackson Rathbone",1302.5,5,260.5,"The Twilight Saga: Eclipse",300.5
-"588","Max Records",107.7,2,53.8,"Where the Wild Things Are",77.2
-"589","Lance Reddick",120.6,6,20.1,"Don't Say a Word",55
-"590","Robert Redford",1567.1,29,54,"Captain America 2",259.8
-"591","Eddie Redmayne",285,8,35.6,"Les Miserables",148.8
-"592","Crystal Reed",21.4,2,10.7,"Skyline",21.4
-"593","Christopher Reeve",427.6,15,28.5,"Superman",134.2
-"594","Keanu Reeves",1865.9,43,43.4,"The Matrix Reloaded",281.6
-"595","Rob Reiner",116.9,1,116.9,"The Wolf of Wall Street",116.9
-"596","Jeremy Renner",2092.3,20,104.6,"The Avengers",623.4
-"597","Ryan Reynolds",1635.1,31,52.7,"Deadpool",360.2
-"598","Giovanni Ribisi",1845.7,29,63.6,"Avatar",760.5
-"599","Christina Ricci",743.7,35,21.2,"Addams Family",113.5
-"600","Denise Richards",365.4,11,33.2,"World Is Not Enough",126.9
-"601","Alan Rickman",1700.9,26,65.4,"Harry Potter / Deathly Hallows (P2)",381
-"602","Daisy Ridley",935.8,1,935.8,"Star Wars: The Force Awakens",935.8
-"603","Rob Riggle",824.4,11,74.9,"The Lorax",214
-"604","Noah Ringer",131.8,1,131.8,"The Last Airbender",131.8
-"605","AnnaSophia Robb",272.7,8,34.1,"Bridge to Terabithia",82.3
-"606","Tim Robbins",890.3,37,24.1,"War of the Worlds",234.3
-"607","Emma Roberts",428.6,15,28.6,"We're the Millers",150.4
-"608","Julia Roberts",2661.8,40,66.5,"Ocean's Eleven",183.4
-"609","Chris Rock",1603,23,69.7,"Madagascar 3",216.4
-"610","Sam Rockwell",1054.2,34,31,"Iron Man 2",312.4
-"611","Michelle Rodriguez",2097.2,17,123.4,"Avatar",760.5
-"612","Seth Rogen",2053,23,89.3,"Kung Fu Panda",215.4
-"613","Elisabeth Rohm",56.5,1,56.5,"Joy",56.5
-"614","Rebecca Romijn",680.4,8,85.1,"X-Men: The Last Stand",234.4
-"615","Saoirse Ronan",270.3,13,20.8,"The Grand Budapest Hotel",59.3
-"616","Emmy Rossum",331.2,12,27.6,"The Day After Tomorrow",186.7
-"617","Eli Roth",NA,1,NA,"Aftershock",NA
-"618","Mickey Rourke",842.3,36,23.4,"Iron Man 2",312.4
-"619","Brandon Routh",203.1,3,67.7,"Superman Returns",200.1
-"620","Gena Rowlands",358.2,21,17.1,"The Notebook",81
-"621","Paul Rudd",1323.9,31,42.7,"Ant-Man",180.2
-"622","Mark Ruffalo",1847.2,33,56,"The Avengers",623.4
-"623","Geoffrey Rush",1541.5,29,53.2,"Pirates of the Caribbean 3",309.4
-"624","Alex Russell",180.2,4,45.1,"Unbroken",115.6
-"625","Kurt Russell",1531.2,34,45,"Furious 7",353
-"626","Rene Russo",1523.9,22,69.3,"Thor: The Dark World",206.4
-"627","Amy Ryan",335.4,18,18.6,"Bridge of Spies",72.3
-"628","Meg Ryan",1151.7,29,39.7,"Top Gun",179.8
-"629","Winona Ryder",916.6,36,25.5,"Mr. Deeds",126.3
-"630","Mark Rylance",114.3,4,28.6,"Bridge of Spies",72.3
-"631","Katee Sackhoff",100.1,3,33.4,"Riddick",42
-"632","Zoe Saldana",2080.7,25,83.2,"Avatar",760.5
-"633","Andy Samberg",615.9,10,61.6,"Hotel Transylvania 2",169.7
-"634","Adam Sandler",2661,32,83.2,"Hotel Transylvania 2",169.7
-"635","Susan Sarandon",1421.8,58,24.5,"Enchanted",127.8
-"636","Peter Sarsgaard",604.6,25,24.2,"Green Lantern",116.6
-"637","Taylor Schilling",66.2,3,22.1,"The Lucky One",60.5
-"638","Joseph Schneider",NA,1,NA,"I'm Not Jesus Mommy",NA
-"639","Rob Schneider",895.1,17,52.7,"Big Daddy",163.5
-"640","Liev Schreiber",1154.7,32,36.1,"X-Men Origins: Wolverine",179.9
-"641","Jason Schwartzman",457.2,23,19.9,"Saving Mr. Banks",83.3
-"642","Arnold Schwarzenegger",1884,30,62.8,"Terminator 2",204.8
-"643","David Schwimmer",683,10,68.3,"Madagascar 3",216.4
-"644","Adam Scott",578.6,25,23.1,"Step Brothers",100.5
-"645","Jason Segel",929.4,15,62,"Despicable Me",251.5
-"646","Andy Serkis",2889.8,23,125.6,"Star Wars: The Force Awakens",935.8
-"647","Chloe Sevigny",84.5,18,4.7,"Zodiac",33.1
-"648","Rufus Sewell",489.1,21,23.3,"Hercules",72.7
-"649","Amanda Seyfried",957.3,23,41.6,"Les Miserables",148.8
-"650","Tupac Shakur",83.1,6,13.8,"Poetic Justice",27.5
-"651","Suraj Sharma",161.4,2,80.7,"Life of Pi",125
-"652","Charlie Sheen",905.8,30,30.2,"Platoon",138.5
-"653","Michael Sheen",1470.1,24,61.3,"Alice in Wonderland",334.2
-"654","Tye Sheridan",39.7,6,6.6,"Mud",21.6
-"655","M. Night Shyamalan",42.3,1,42.3,"Lady in the Water",42.3
-"656","Gabourey Sidibe",132.5,4,33.1,"Tower Heist",78
-"657","Sebastián Silva",NA,1,NA,"Nasty Baby",NA
-"658","Alicia Silverstone",353.9,14,25.3,"Batman and Robin",107.3
-"659","Stellan Skarsgard",3171.9,42,75.5,"The Avengers",623.4
-"660","John Slattery",691.6,10,69.2,"Iron Man 2",312.4
-"661","Robert Smigel",169.7,1,169.7,"Hotel Transylvania 2",169.7
-"662","Kodi Smit-McPhee",285.2,7,40.7,"Dawn of the Planet of the Apes",208.5
-"663","Jaden Smith",480,4,120,"The Karate Kid",176.6
-"664","Kevin Smith",207.7,6,34.6,"Live Free or Die Hard",134.5
-"665","Maggie Smith",647.3,22,29.4,"Sister Act",139.6
-"666","Will Smith",2848.9,23,123.9,"Independence Day",306.2
-"667","Wesley Snipes",976.5,31,31.5,"Blade II",82.3
-"668","Kevin Spacey",1401.2,35,40,"Superman Returns",200.1
-"669","David Spade",738.5,14,52.8,"Hotel Transylvania 2",169.7
-"670","Morgan Spurlock",NA,1,NA,"POM Wonderful Presents: The Greatest Movie Ever Sold",NA
-"671","Sylvester Stallone",2041.5,40,51,"Rambo: First Blood Part II",150.4
-"672","Jason Statham",1262,30,42.1,"Furious 7",353
-"673","Imelda Staunton",669.9,15,44.7,"Harry Potter / Phoenix",292
-"674","Hailee Steinfeld",466,10,46.6,"Pitch Perfect 2",184.3
-"675","Dan Stevens",143.6,4,35.9,"Night at the Museum: Secret of the Tomb",113.7
-"676","Ray Stevenson",1164.7,16,72.8,"Thor: The Dark World",206.4
-"677","Kristen Stewart",1804.6,25,72.2,"The Twilight Saga: Eclipse",300.5
-"678","Patrick Stewart",1219,18,67.7,"X-Men: The Last Stand",234.4
-"679","Julia Stiles",878.8,18,48.8,"The Bourne Ultimatum",227.5
-"680","Ben Stiller",2827,37,76.4,"Meet the Fockers",279.3
-"681","Emma Stone",1395.5,17,82.1,"The Amazing Spider-Man",262
-"682","Sharon Stone",722.7,34,21.3,"Total Recall",119.4
-"683","Meryl Streep",2011,52,38.7,"Mamma Mia!",144.1
-"684","Barbra Streisand",995.4,15,66.4,"Meet the Fockers",279.3
-"685","Mark Strong",1130,33,34.2,"Sherlock Holmes",209
-"686","Jim Sturgess",232.8,12,19.4,"21",81.2
-"687","Tom Sturridge",23.2,6,3.9,"Far from the Madding Crowd",12.2
-"688","Jason Sudeikis",753.7,15,50.2,"We're the Millers",150.4
-"689","Jeremy Sumpter",139.9,4,35,"Peter Pan",48.5
-"690","Kiefer Sutherland",1070.5,34,31.5,"Monsters Vs. Aliens",198.4
-"691","Hilary Swank",448,16,28,"Million Dollar Baby",100.5
-"692","Nick Swardson",962.2,14,68.7,"Hotel Transylvania 2",169.7
-"693","Patrick Swayze",572.8,23,24.9,"Ghost",217.6
-"694","Tilda Swinton",1045.9,31,33.7,"The Chronicles of Narnia",291.7
-"695","Jorma Taccone",63.4,2,31.7,"Land of the Lost",49.4
-"696","Quentin Tarantino",28.7,2,14.3,"From Dusk Till Dawn",25.8
-"697","Channing Tatum",1932.9,30,64.4,"The LEGO Movie",257.8
-"698","Christine Taylor",307.9,7,44,"DodgeBall",114.3
-"699","Aimee Teegarden",10.2,3,3.4,"Prom",10.1
-"700","Miles Teller",581.8,12,48.5,"Divergent",150.9
-"701","Juno Temple",387.1,16,24.2,"Maleficent",241.4
-"702","Charlize Theron",1277.5,32,39.9,"Hancock",227.9
-"703","Max Thieriot",233.5,9,25.9,"The Pacifier",113.1
-"704","Olivia Thirlby",348.9,15,23.3,"Juno",143.5
-"705","Emma Thompson",1053.9,30,35.1,"Brave",237.3
-"706","Bella Thorne",233.1,4,58.3,"Alvin and the Chipmunks: The Road Chip",85.8
-"707","Billy Bob Thornton",1038.9,34,30.6,"Armageddon",201.6
-"708","Uma Thurman",774.4,31,25,"Pulp Fiction",107.9
-"709","Brenton Thwaites",314.8,4,78.7,"Maleficent",241.4
-"710","Justin Timberlake",516.4,13,39.7,"Bad Teacher",100.3
-"711","Analeigh Tipton",151.8,4,37.9,"Crazy Stupid Love.",84.4
-"712","Marisa Tomei",1287.8,42,30.7,"What Women Want",182.8
-"713","Lily Tomlin",451.6,20,22.6,"9 to 5",103.3
-"714","Michelle Trachtenberg",254.2,8,31.8,"Inspector Gadget",97.4
-"715","John Travolta",2398.8,44,54.5,"Grease",188.8
-"716","Stanley Tucci",2842,49,58,"Catching Fire",424.7
-"717","Chris Tucker",795.9,8,99.5,"Rush Hour 2",226.2
-"718","Liv Tyler",1545.6,23,67.2,"Return of the King",377.8
-"719","Carrie Underwood",43.9,1,43.9,"Soul Surfer",43.9
-"720","Kate Upton",128.2,2,64.1,"The Other Woman",83.9
-"721","Karl Urban",1726.5,16,107.9,"Return of the King",377.8
-"722","Wilmer Valderrama",76.8,8,9.6,"Larry Crowne",35.6
-"723","Nia Vardalos",310.5,5,62.1,"My Big Fat Greek Wedding",241.4
-"724","Vince Vaughn",1716.8,33,52,"The Lost World",229.1
-"725","Alexa Vega",369.5,9,41.1,"Spy Kids",112.7
-"726","Goran Visnjic",86.1,7,12.3,"Practical Magic",46.7
-"727","Mike Vogel",523,10,52.3,"The Help",169.7
-"728","Jon Voight",2027.8,33,61.4,"Transformers",319.2
-"729","Mark Wahlberg",2549.8,36,70.8,"Transformers 4",245.4
-"730","David Wain",NA,1,NA,"Delirious (2007)",NA
-"731","Rhys Wakefield",46.7,3,15.6,"Endless Love",23.4
-"732","Christopher Walken",1819.2,60,30.3,"Wedding Crashers",209.3
-"733","Paul Walker",1644.4,19,86.5,"Furious 7",353
-"734","Quvenzhane Wallis",99.4,3,33.1,"Annie (2014)",85.9
-"735","Christoph Waltz",840.5,11,76.4,"Spectre",200.1
-"736","Denzel Washington",2236.8,43,52,"American Gangster",130.2
-"737","Mia Wasikowska",457.1,16,28.6,"Alice in Wonderland",334.2
-"738","Emma Watson",2681.9,16,167.6,"Harry Potter / Deathly Hallows (P2)",381
-"739","Naomi Watts",918.4,32,28.7,"King Kong",218.1
-"740","Damon Wayans",217.4,11,19.8,"The Last Boy Scout",59.5
-"741","Keenen Ivory Wayans",69.2,4,17.3,"A Low Down Dirty Shame",29.4
-"742","Marlon Wayans",765.6,17,45,"Scary Movie",157
-"743","Shawn Wayans",377.9,5,75.6,"Scary Movie",157
-"744","John Wayne",8.2,2,4.1,"The Shootist",8.1
-"745","Sigourney Weaver",2276.4,46,49.5,"Avatar",760.5
-"746","Hugo Weaving",2120.1,17,124.7,"Fellowship of the Ring",315.5
-"747","Rachel Weisz",1200.6,30,40,"Oz The Great and Powerful",234.9
-"748","Leigh Whannell",NA,1,NA,"Cooties",NA
-"749","Ben Whishaw",657.7,12,54.8,"Skyfall",304.4
-"750","Forest Whitaker",1480.2,53,27.9,"Platoon",138.5
-"751","Kristen Wiig",1675.3,27,62,"Despicable Me 2",368.1
-"752","Olivia Wilde",571.5,21,27.2,"Tron Legacy",172.1
-"753","Tom Wilkinson",1181.6,42,28.1,"Rush Hour",141.2
-"754","Michael K. Williams",473.1,13,36.4,"The Incredible Hulk",134.8
-"755","Michelle Williams",644.8,24,26.9,"Oz The Great and Powerful",234.9
-"756","Robin Williams",3279.3,49,66.9,"Night at the Museum",250.9
-"757","Bruce Willis",3189.4,60,53.2,"Sixth Sense",293.5
-"758","Luke Wilson",645.1,29,22.2,"Legally Blonde",96.5
-"759","Owen Wilson",2602.3,39,66.7,"Night at the Museum",250.9
-"760","Patrick Wilson",668.1,17,39.3,"The Conjuring",137.4
-"761","Rebel Wilson",467.1,7,66.7,"Pitch Perfect 2",184.3
-"762","Kate Winslet",1451.4,29,50,"Titanic",658.7
-"763","Mary Elizabeth Winstead",472.5,15,31.5,"Live Free or Die Hard",134.5
-"764","Reese Witherspoon",1254,30,41.8,"Monsters Vs. Aliens",198.4
-"765","Ellen Wong",31.5,1,31.5,"Scott Pilgrim vs. the World",31.5
-"766","Elijah Wood",1889.3,37,51.1,"Return of the King",377.8
-"767","Shailene Woodley",559.6,7,79.9,"Divergent",150.9
-"768","Kenny Wormald",64.4,4,16.1,"Footloose",51.8
-"769","Sam Worthington",1205.3,13,92.7,"Avatar",760.5
-"770","Jeffrey Wright",1724.4,25,69,"Catching Fire",424.7
-"771","Donnie Yen",227.1,10,22.7,"Blade II",82.3
-"772","Renee Zellweger",1168.2,26,44.9,"Chicago",170.7
-"773","Catherine Zeta-Jones",1229.3,24,51.2,"Chicago",170.7
-"774","Zhang Ziyi",485.9,10,48.6,"Rush Hour 2",226.2
-"775","Josh Zuckerman",8.4,2,4.2,"Sex Drive",8.4
+"63","Sofia Boutella",286.8,2,143.4,"Star Trek Beyond",158.5
+"64","John Boyega",937.7,2,468.8,"Star Wars: The Force Awakens",936.7
+"65","Luke Bracey",103.8,4,25.9,"Point Break (2015)",28.8
+"66","Zach Braff",281.7,6,47,"Oz The Great and Powerful",234.9
+"67","Kenneth Branagh",626.4,17,36.8,"Harry Potter / Chamber of Secrets",262
+"68","Russell Brand",1033.7,9,114.9,"Despicable Me 2",368.1
+"69","Marlon Brando",552.5,12,46,"The Godfather",135
+"70","Benjamin Bratt",843,20,42.2,"Despicable Me 2",368.1
+"71","Ewen Bremner",746.9,14,53.3,"Pearl Harbor",198.5
+"72","Abigail Breslin",1103.9,20,55.2,"Signs",228
+"73","Jordana Brewster",1118.3,6,186.4,"Furious 7",353
+"74","Chris 'Ludacris' Bridges",1269.6,12,105.8,"Furious 7",353
+"75","Jeff Bridges",1666.1,50,33.3,"Iron Man",318.4
+"76","Jim Broadbent",1111.4,42,26.5,"Harry Potter 6",302
+"77","Matthew Broderick",1348,33,40.8,"Lion King",422.8
+"78","Adam Brody",341.7,16,21.4,"Mr. & Mrs. Smith",186.3
+"79","Adrien Brody",603.2,32,18.9,"King Kong",218.1
+"80","Josh Brolin",1592.1,34,46.8,"Avengers: Age of Ultron",459
+"81","Albert Brooks",1206.4,21,57.4,"Finding Dory",484.4
+"82","Pierce Brosnan",1455.3,37,39.3,"Mrs. Doubtfire",219.2
+"83","Chris Brown",268.7,5,53.7,"Think Like a Man",91.5
+"84","Emily Browning",238.9,9,26.5,"Lemony Snicket",118.6
+"85","Sandra Bullock",2462.6,35,70.4,"Minions",336
+"86","Billy Burke",1719.7,15,114.6,"The Twilight Saga: Eclipse",300.5
+"87","Edward Burns",370.3,13,28.5,"Saving Private Ryan",216.5
+"88","Ty Burrell",413.9,10,41.4,"The Incredible Hulk",134.8
+"89","Gerard Butler",1401,28,50,"How to Train Your Dragon",217.6
+"90","Amanda Bynes",435.6,7,62.2,"Robots",128.2
+"91","Rose Byrne",1455,25,58.2,"Bridesmaids",169.1
+"92","Nicolas Cage",2407,56,43,"National Treasure: Book of Secrets",220
+"93","Michael Caine",3351.5,58,57.8,"The Dark Knight",534.9
+"94","Neve Campbell",432.8,12,36.1,"Scream",103
+"95","Steve Carell",2373.5,25,94.9,"Despicable Me 2",368.1
+"96","Jim Carrey",2545.2,27,94.3,"The Grinch",260
+"97","Helena Bonham Carter",2822,36,78.4,"Harry Potter / Deathly Hallows (P2)",381
+"98","Dana Carvey",241.6,7,34.5,"Wayne's World",121.7
+"99","Katie Cassidy",150.4,4,37.6,"Nightmare on Elm Street",63.1
+"100","James Caviezel",730.9,20,36.5,"Passion of the Christ",370.8
+"101","Henry Cavill",868.2,10,86.8,"Batman v Superman",330.4
+"102","Cedric the Entertainer",1448.9,27,53.7,"Madagascar 3",216.4
+"103","John Cena",228.5,5,45.7,"Trainwreck",110.2
+"104","Michael Cera",586.5,12,48.9,"Juno",143.5
+"105","Jackie Chan",1615.7,26,62.1,"Rush Hour 2",226.2
+"106","Jay Chandrasekhar",NA,1,NA,"The Slammin' Salmon",NA
+"107","Jessica Chastain",1139.8,17,67,"The Martian",228.4
+"108","Don Cheadle",2885.5,34,84.9,"Avengers: Age of Ultron",459
+"109","Cher",373.1,11,33.9,"Moonstruck",80.6
+"110","Morris Chestnut",647.6,15,43.2,"Identity Thief",134.5
+"111","Jay Chou",105.3,2,52.7,"The Green Hornet",98.8
+"112","Erika Christensen",188.8,10,18.9,"Flightplan",89.7
+"113","Hayden Christensen",867.7,10,86.8,"Revenge of the Sith",380.3
+"114","Jamie Chung",570.7,8,71.3,"The Hangover Part II",254.5
+"115","Thomas Haden Church",1154.4,18,64.1,"Spider-Man 3",336.5
+"116","Jemaine Clement",494.1,11,44.9,"MIB 3",179
+"117","George Clooney",2078.4,34,61.1,"Gravity",274.1
+"118","Glenn Close",1361.1,32,42.5,"Guardians of the Galaxy",333.2
+"119","Sacha Baron Cohen",1345.9,12,112.2,"Madagascar 3",216.4
+"120","Toni Collette",925.5,36,25.7,"Sixth Sense",293.5
+"121","Lily Collins",409.5,8,51.2,"The Blind Side",256
+"122","Sean 'P. Diddy' Combs",126.4,4,31.6,"Get Him to the Greek",61
+"123","Common",1197.1,18,66.5,"Suicide Squad",321.4
+"124","Jennifer Connelly",927.4,31,29.9,"A Beautiful Mind",170.7
+"125","Sean Connery",1550.6,37,41.9,"Indiana Jones and the Last Crusade",197.2
+"126","Steve Coogan",1720,24,71.7,"Despicable Me 2",368.1
+"127","Sophie Cookson",128.3,1,128.3,"Kingsman",128.3
+"128","Jennifer Coolidge",465.5,13,35.8,"Legally Blonde",96.5
+"129","Bradley Cooper",2557.7,25,102.3,"American Sniper",350.1
+"130","Chris Cooper",1507.7,32,47.1,"The Amazing Spider-Man 2",202.9
+"131","Dominic Cooper",563.4,18,31.3,"Captain America",176.7
+"132","Sharlto Copley",571.4,9,63.5,"Maleficent",241.4
+"133","Sofia Coppola",66.7,1,66.7,"The Godfather Part III",66.7
+"134","John Corbett",591.7,13,45.5,"My Big Fat Greek Wedding",241.4
+"135","Abbie Cornish",284.9,12,23.7,"Limitless",79.2
+"136","Kevin Costner",1926.4,37,52.1,"Man of Steel",291
+"137","Marion Cotillard",1088.5,17,64,"The Dark Knight Rises",448.1
+"138","Jai Courtney",978.7,10,97.9,"Suicide Squad",321.4
+"139","Brian Cox",1775.2,44,40.3,"X2: X-Men United",214.9
+"140","Courteney Cox",579.5,14,41.4,"Bedtime Stories",110.1
+"141","Tony Cox",529.1,9,58.8,"Oz The Great and Powerful",234.9
+"142","Daniel Craig",1558.5,24,64.9,"Skyfall",304.4
+"143","Bryan Cranston",1033.2,15,68.9,"Madagascar 3",216.4
+"144","Chace Crawford",78.3,5,15.7,"What to Expect When You're Expecting",41.2
+"145","Amanda Crew",174.2,6,29,"The Haunting in Connecticut",55.4
+"146","Russell Crowe",1717.4,32,53.7,"Man of Steel",291
+"147","Billy Crudup",645.4,23,28.1,"Mission: Impossible III",134
+"148","Tom Cruise",3587.2,36,99.6,"War of the Worlds",234.3
+"149","Penelope Cruz",817.6,35,23.4,"Pirates of the Caribbean 4",241.1
+"150","Billy Crystal",1358.6,19,71.5,"Monsters Inc.",289.9
+"151","Ice Cube",1476.5,30,49.2,"22 Jump Street",191.7
+"152","Macaulay Culkin",712.8,11,64.8,"Home Alone",285.8
+"153","Rory Culkin",289.9,12,24.2,"Signs",228
+"154","Benedict Cumberbatch",1229.3,14,87.8,"The Hobbit 2",258.4
+"155","Kaley Cuoco",258.4,4,64.6,"Hop",108.1
+"156","Jamie Lee Curtis",1064.4,33,32.3,"True Lies",146.3
+"157","John Cusack",1157.6,48,24.1,"2012",166.1
+"158","Miley Cyrus",321.9,4,80.5,"Bolt",114.1
+"159","Willem Dafoe",1598.9,53,30.2,"Spider-Man",403.7
+"160","Matt Damon",3112.9,39,79.8,"The Martian",228.4
+"161","Claire Danes",552.8,23,24,"Terminator 3",150.4
+"162","Anthony Daniels",3420.7,8,427.6,"Star Wars: The Force Awakens",936.7
+"163","Paul Dano",601.6,26,23.1,"Cowboys & Aliens",100.2
+"164","Alexa Davalos",278.7,5,55.7,"Clash of the Titans",163.2
+"165","Jack Davenport",1164.1,8,145.5,"Dead Man's Chest",423.3
+"166","Viola Davis",1254.5,24,52.3,"Suicide Squad",321.4
+"167","Rosario Dawson",923.4,35,26.4,"Men in Black II",190.4
+"168","Charlie Day",609.2,7,87,"The LEGO Movie",257.8
+"169","Daniel Day-Lewis",523.6,15,34.9,"Lincoln",182.2
+"170","Brian De Palma",NA,1,NA,"De Palma",NA
+"171","Emilie de Ravin",64,4,16,"The Hills Have Eyes",41.8
+"172","Elizabeth Debicki",234.9,4,58.7,"The Great Gatsby",144.8
+"173","Brooklyn Decker",209.6,3,69.9,"Just Go With It",103
+"174","Ellen DeGeneres",910.8,6,151.8,"Finding Dory",484.4
+"175","Dane DeHaan",293.6,7,41.9,"The Amazing Spider-Man 2",202.9
+"176","Thomas Dekker",112.4,5,22.5,"Nightmare on Elm Street",63.1
+"177","Benicio Del Toro",948.5,31,30.6,"Guardians of the Galaxy",333.2
+"178","Cara Delevigne",353.4,2,176.7,"Suicide Squad",321.4
+"179","Julie Delpy",80.5,16,5,"American Werewolf in Paris",26.6
+"180","Judi Dench",1773.4,32,55.4,"Skyfall",304.4
+"181","Robert DeNiro",3082,79,39,"Meet the Fockers",279.3
+"182","Kat Dennings",672.2,11,61.1,"Thor: The Dark World",206.4
+"183","Johnny Depp",3368.6,45,74.9,"Dead Man's Chest",423.3
+"184","Eugenio Derbez",341.6,9,38,"Beverly Hills Chihuahua",94.5
+"185","Zooey Deschanel",797.5,25,31.9,"Elf",173.4
+"186","Adam DeVine",359.2,4,89.8,"Pitch Perfect 2",184.3
+"187","Danny DeVito",1827.3,45,40.6,"The Lorax",214
+"188","Jenna Dewan-Tatum",100.5,4,25.1,"Step Up",65.3
+"189","Rosemarie DeWitt",164.5,14,11.7,"The Odd Life of Timothy Green",51.9
+"190","Prabhu Dheva",NA,1,NA,"ABCD (Any Body Can Dance) 2",NA
+"191","Cameron Diaz",3031.7,34,89.2,"Shrek 2",441.2
+"192","Leonardo DiCaprio",2518.3,25,100.7,"Titanic",658.7
+"193","Vin Diesel",2151.6,18,119.5,"Furious 7",353
+"194","Matt Dillon",811,38,21.3,"Something About Mary",176.5
+"195","Snoop Dogg",281.4,8,35.2,"Starsky and Hutch",88.2
+"196","Martin Donovan",186.2,21,8.9,"Insomnia",67.4
+"197","Portia Doubleday",88.6,4,22.2,"Big Mommas: Like Father Like Son",37.9
+"198","Michael Douglas",1776.9,36,49.4,"Ant-Man",180.2
+"199","Robert Downey Jr.",3947.4,53,74.5,"The Avengers",623.4
+"200","David Duchovny",285.6,19,15,"X-Files",83.9
+"201","Hilary Duff",402.3,10,40.2,"Cheaper by the Dozen",138.6
+"202","Josh Duhamel",1336.1,13,102.8,"Transformers 2",402.1
+"203","Clark Duke",353.7,8,44.2,"The Croods",187.2
+"204","Michael Clarke Duncan",1201.7,21,57.2,"Armageddon",201.6
+"205","Kirsten Dunst",1760.3,31,56.8,"Spider-Man",403.7
+"206","Mark Duplass",114.9,4,28.7,"Tammy",84.5
+"207","Robert Duvall",1814.4,55,33,"Deep Impact",140.5
+"208","Michael Ealy",645.6,13,49.7,"Think Like a Man",91.5
+"209","Clint Eastwood",1710.9,46,37.2,"Gran Torino",148.1
+"210","Aaron Eckhart",1423.4,29,49.1,"The Dark Knight",534.9
+"211","Zac Efron",953.8,18,53,"The Lorax",214
+"212","Taron Egerton",145.9,3,48.6,"Kingsman",128.3
+"213","Colin Egglesfield",39.1,2,19.6,"Something Borrowed",39
+"214","Jesse Eisenberg",1221.8,27,45.3,"Batman v Superman",330.4
+"215","Chiwetel Ejiofor",894.8,18,49.7,"The Martian",228.4
+"216","Idris Elba",2584.3,26,99.4,"Avengers: Age of Ultron",459
+"217","Ansel Elgort",508.2,6,84.7,"Divergent",150.9
+"218","Sam Elliott",714.7,22,32.5,"Hulk",132.2
+"219","Cary Elwes",1297.8,30,43.3,"Twister",241.7
+"220","Mireille Enos",263.3,3,87.8,"World War Z",202.4
+"221","Omar Epps",353.5,15,23.6,"Scream 2",101.4
+"222","Chris Evans",2457.8,23,106.9,"The Avengers",623.4
+"223","Alice Eve",567.4,15,37.8,"Star Trek Into Darkness",228.8
+"224","Dakota Fanning",1407.7,22,64,"The Twilight Saga: Eclipse",300.5
+"225","Anna Faris",1516.5,22,68.9,"Alvin and the Chipmunks 2",219.6
+"226","Chris Farley",129.7,6,21.6,"Tommy Boy",32.7
+"227","Vera Farmiga",777.7,24,32.4,"The Conjuring",137.4
+"228","Colin Farrell",1104.9,32,34.5,"Minority Report",132.1
+"229","Michael Fassbender",1150.1,22,52.3,"X-Men: Days of Future Past",233.9
+"230","Jon Favreau",1345.2,18,74.7,"Iron Man 3",409
+"231","Shiloh Fernandez",102.5,7,14.6,"Evil Dead (2013)",54.2
+"232","Will Ferrell",2166.9,31,69.9,"The LEGO Movie",257.8
+"233","America Ferrera",574.6,14,41,"How to Train Your Dragon",217.6
+"234","Tina Fey",640.8,11,58.3,"Megamind",148.4
+"235","Sally Field",2075.6,28,74.1,"Forrest Gump",330.3
+"236","Ralph Fiennes",2725.8,36,75.7,"Harry Potter / Deathly Hallows (P2)",381
+"237","Jessica Brown Findlay",18.4,2,9.2,"Winter's Tale",12.6
+"238","Colin Firth",1126.5,33,34.1,"Mamma Mia!",144.1
+"239","Jenna Fischer",187.7,8,23.5,"Blades of Glory",118.6
+"240","Laurence Fishburne",2218.6,36,61.6,"Batman v Superman",330.4
+"241","Carrie Fisher",2258.5,17,132.9,"Star Wars: The Force Awakens",936.7
+"242","Isla Fisher",1109.2,16,69.3,"Wedding Crashers",209.3
+"243","Dan Fogler",355.4,11,32.3,"Horton Hears a Who!",154.5
+"244","Harrison Ford",4871.7,41,118.8,"Star Wars: The Force Awakens",936.7
+"245","Will Forte",546,14,39,"The LEGO Movie",257.8
+"246","Ben Foster",473.7,21,22.6,"Lone Survivor",125.1
+"247","Jodie Foster",1051.8,26,40.5,"Silence of the Lambs",130.7
+"248","Megan Fox",1098.9,10,109.9,"Transformers 2",402.1
+"249","Jamie Foxx",2025.4,29,69.8,"The Amazing Spider-Man 2",202.9
+"250","Claire Foy",32.6,2,16.3,"Season of the Witch",24.8
+"251","Cecile de France",67.4,10,6.7,"Hereafter",32.7
+"252","Dave Franco",844.3,8,105.5,"The LEGO Movie",257.8
+"253","James Franco",2200.8,38,57.9,"Spider-Man",403.7
+"254","Brendan Fraser",1105.6,29,38.1,"Mummy Returns",202
+"255","Martin Freeman",1429.7,13,110,"Captain America 3",408.1
+"256","Morgan Freeman",4470.4,61,73.3,"The Dark Knight",534.9
+"257","Anna Friel",169.4,11,15.4,"Limitless",79.2
+"258","Nick Frost",443.3,12,36.9,"Snow White and the Huntsman",155.3
+"259","Josh Gad",870.5,12,72.5,"Frozen",400.7
+"260","Gal Gadot",1136.4,8,142.1,"Batman v Superman",330.4
+"261","Zach Galifianakis",1340.7,17,78.9,"The Hangover",277.3
+"262","Kyle Gallner",596,14,42.6,"American Sniper",350.1
+"263","Vincent Gallo",5.1,8,NA,"Buffalo '66",2.4
+"264","James Gandolfini",578.2,28,20.6,"Crimson Tide",91.4
+"265","Romola Garai",134.4,11,12.2,"Atonement",50.9
+"266","Andrew Garfield",588.7,9,65.4,"The Amazing Spider-Man",262
+"267","James Garner",481.5,13,37,"Maverick",101.6
+"268","Jennifer Garner",1000.3,21,47.6,"Juno",143.5
+"269","Sarah Michelle Gellar",627.4,13,48.3,"Scooby-Doo",153.3
+"270","Richard Gere",1408.8,42,33.5,"Pretty Woman",178.4
+"271","Ricky Gervais",764.6,10,76.5,"Night at the Museum",250.9
+"272","Greta Gerwig",136.5,15,9.1,"No Strings Attached",70.7
+"273","Paul Giamatti",1904.5,46,41.4,"The Hangover Part II",254.5
+"274","Mel Gibson",2113.9,34,62.2,"Signs",228
+"275","Tyrese Gibson",2339.5,16,146.2,"Transformers 2",402.1
+"276","Cam Gigandet",507.4,12,42.3,"Twilight",192.8
+"277","Karen Gillan",360.9,2,180.4,"Guardians of the Galaxy",333.2
+"278","Brendan Gleeson",1773.4,41,43.3,"Harry Potter / Goblet of Fire",290
+"279","Danny Glover",1490.2,41,36.3,"2012",166.1
+"280","Jeff Goldblum",1476.5,22,67.1,"Jurassic Park",402.5
+"281","Selena Gomez",392.1,7,56,"Hotel Transylvania 2",169.7
+"282","Matthew Goode",305.9,13,23.5,"Watchmen",107.5
+"283","Cuba Gooding Jr.",1335,28,47.7,"Pearl Harbor",198.5
+"284","Ginnifer Goodwin",657.3,9,73,"Zootopia",341.3
+"285","Keith Gordon",91.3,1,91.3,"Back to School",91.3
+"286","Zachary Gordon",165.7,3,55.2,"Diary of a Wimpy Kid",64
+"287","Joseph Gordon-Levitt",1576.5,34,46.4,"The Dark Knight Rises",448.1
+"288","Ryan Gosling",510.4,19,26.9,"Crazy Stupid Love.",84.4
+"289","Topher Grace",796,13,61.2,"Spider-Man 3",336.5
+"290","Kelsey Grammer",653.2,12,54.4,"Transformers 4",245.4
+"291","Hugh Grant",930.3,28,33.2,"Notting Hill",116.1
+"292","Eva Green",523.7,12,43.6,"Casino Royale",167.4
+"293","Seth Green",962.8,20,48.1,"Goldmember",213.3
+"294","Ashley Greene",1368.8,10,136.9,"The Twilight Saga: Eclipse",300.5
+"295","Clark Gregg",1599.3,15,106.6,"The Avengers",623.4
+"296","Frank Grillo",1304.3,16,81.5,"Captain America 3",408.1
+"297","Rupert Grint",2390.5,13,183.9,"Harry Potter / Deathly Hallows (P2)",381
+"298","Ioan Gruffudd",631.2,14,45.1,"San Andreas",155.2
+"299","Christopher Guest",182.8,2,91.4,"Night at the Museum II",177.2
+"300","Carla Gugino",1411.2,25,56.4,"Night at the Museum",250.9
+"301","Ryan Guzman",85.4,3,28.5,"The Boy Next Door",35.4
+"302","Jake Gyllenhaal",886.4,23,38.5,"The Day After Tomorrow",186.7
+"303","Maggie Gyllenhaal",976.7,26,37.6,"The Dark Knight",534.9
+"304","Lukas Haas",443.2,22,20.1,"The Revenant",183.6
+"305","Corey Haim",141.1,10,14.1,"The Lost Boys",32.2
+"306","Jackie Earle Haley",623.7,15,41.6,"Shutter Island",128
+"307","Rebecca Hall",731.6,16,45.7,"Iron Man 3",409
+"308","Regina Hall",943.9,17,55.5,"Scary Movie",157
+"309","Mark Hamill",2176.9,12,181.4,"Star Wars: The Force Awakens",936.7
+"310","Linda Hamilton",331.2,6,55.2,"Terminator 2",204.8
+"311","Jon Hamm",722.2,11,65.7,"Minions",336
+"312","Armie Hammer",334.3,6,55.7,"The Social Network",97
+"313","Tom Hanks",4449,45,98.9,"Toy Story 3",415
+"314","Tom Hardy",1275.1,18,70.8,"The Dark Knight Rises",448.1
+"315","Woody Harrelson",2815.8,50,56.3,"Catching Fire",424.7
+"316","Ed Harris",1771.6,49,36.2,"National Treasure: Book of Secrets",220
+"317","Jamie Harris",314.4,7,44.9,"Rise of the Planet of the Apes",176.8
+"318","Jared Harris",851.5,27,31.5,"Sherlock Holmes 2",186.8
+"319","Naomie Harris",1504.1,16,94,"Dead Man's Chest",423.3
+"320","Neil Patrick Harris",811.5,14,58,"Gone Girl",167.8
+"321","Kevin Hart",1416.4,20,70.8,"The Secret Life of Pets",365
+"322","Josh Hartnett",678.4,18,37.7,"Pearl Harbor",198.5
+"323","Anne Hathaway",2416.5,25,96.7,"The Dark Knight Rises",448.1
+"324","Rutger Hauer",246.2,26,9.5,"Sin City",74.1
+"325","Ethan Hawke",756.8,44,17.2,"Dead Poets Society",95.9
+"326","Sally Hawkins",336.7,15,22.4,"Godzilla",200.7
+"327","Goldie Hawn",665.4,18,37,"First Wives Club",105.5
+"328","Salma Hayek",976.9,19,51.4,"Grown Ups",162
+"329","Lena Headey",554.3,22,25.2,"300",210.6
+"330","Amber Heard",290.1,14,20.7,"Pineapple Express",87.3
+"331","Jon Heder",348.1,9,38.7,"Blades of Glory",118.6
+"332","Garrett Hedlund",596.4,12,49.7,"Tron Legacy",172.1
+"333","Katherine Heigl",745.7,16,46.6,"Knocked Up",148.8
+"334","Ed Helms",1131.7,11,102.9,"The Hangover",277.3
+"335","Chris Hemsworth",2022.2,15,134.8,"The Avengers",623.4
+"336","Liam Hemsworth",1790.8,11,162.8,"Catching Fire",424.7
+"337","Lance Henriksen",548.4,24,22.9,"Scream 3",89.1
+"338","Taraji P. Henson",924.7,19,48.7,"The Karate Kid",176.6
+"339","Katharine Hepburn",194.2,3,64.7,"On Golden Pond",119.3
+"340","Werner Herzog",80.4,4,20.1,"Jack Reacher",80.1
+"341","Grant Heslov",67.1,1,67.1,"Dante's Peak",67.1
+"342","Jennifer Love Hewitt",333.6,12,27.8,"Garfield",75.4
+"343","Tom Hiddleston",1183.6,12,98.6,"The Avengers",623.4
+"344","Freddie Highmore",404.6,8,50.6,"Charlie and the Chocolate Factory",206.5
+"345","Jonah Hill",2618.6,29,90.3,"The LEGO Movie",257.8
+"346","Kristofer Hivju",78.9,4,19.7,"After Earth",60.5
+"347","Dustin Hoffman",2522.1,43,58.7,"Meet the Fockers",279.3
+"348","Philip Seymour Hoffman",2463.7,40,61.6,"Catching Fire",424.7
+"349","Boyd Holbrook",58.1,4,14.5,"Run All Night",26.5
+"350","Tom Holland",472.7,5,94.5,"Captain America 3",408.1
+"351","Ian Holm",1307.6,30,43.6,"Return of the King",377.8
+"352","Katie Holmes",573.7,22,26.1,"Batman Begins",206.9
+"353","Anthony Hopkins",2033.3,53,38.4,"Mission: Impossible II",215.4
+"354","Cody Horn",154.9,4,38.7,"Magic Mike",113.7
+"355","Thomas Horn",31.8,1,31.8,"Extremely Loud & Incredibly Close",31.8
+"356","Julianne Hough",236.7,5,47.3,"Safe Haven",71.3
+"357","Nicholas Hoult",884.5,12,73.7,"X-Men: Days of Future Past",233.9
+"358","Whitney Houston",261.6,4,65.4,"Bodyguard",122
+"359","Bryce Dallas Howard",1583,10,158.3,"Jurassic World",652.3
+"360","Ron Howard",139.1,4,34.8,"American Graffiti",115
+"361","Terrence Howard",1399,34,41.1,"Iron Man",318.4
+"362","Vanessa Hudgens",287.5,9,31.9,"Journey 2",103.9
+"363","Kate Hudson",783.4,26,30.1,"Kung Fu Panda 3",143.5
+"364","Bonnie Hunt",1588.8,18,88.3,"Zootopia",341.3
+"365","Helen Hunt",996.9,20,49.8,"Twister",241.7
+"366","Holly Hunter",1086.7,27,40.2,"Batman v Superman",330.4
+"367","Rosie Huntington-Whiteley",506,2,253,"Transformers 3",352.4
+"368","William Hurt",1260.7,27,46.7,"Captain America 3",408.1
+"369","Josh Hutcherson",2094.7,17,123.2,"Catching Fire",424.7
+"370","Rhys Ifans",698,28,24.9,"The Amazing Spider-Man",262
+"371","Dustin Ingram",104.1,2,52,"Paranormal Activity 3",104
+"372","Jeremy Irons",1184.3,25,47.4,"Lion King",422.8
+"373","Max Irons",97.6,4,24.4,"Red Riding Hood",37.7
+"374","Oscar Isaac",1333.9,15,88.9,"Star Wars: The Force Awakens",936.7
+"375","Tony Jaa",369.7,7,52.8,"Furious 7",353
+"376","Hugh Jackman",2289.2,25,91.6,"X-Men: The Last Stand",234.4
+"377","Brandon T. Jackson",407.9,8,51,"Tropic Thunder",110.5
+"378","Quinton 'Rampage' Jackson",77.3,3,25.8,"The A-Team",77.2
+"379","Samuel L. Jackson",4809.5,70,68.7,"The Avengers",623.4
+"380","Kevin James",1390,13,106.9,"Hitch",179.5
+"381","Theo James",409.6,4,102.4,"Divergent",150.9
+"382","Thomas Jane",208.5,17,12.3,"Deep Blue Sea",73.6
+"383","Famke Janssen",1428.6,31,46.1,"X-Men: The Last Stand",234.4
+"384","Jim Jarmusch",1.3,1,1.3,"Blue in the Face",1.3
+"385","Scarlett Johansson",3341.5,37,90.3,"The Avengers",623.4
+"386","Aaron Johnson",861.8,10,86.2,"Avengers: Age of Ultron",459
+"387","Dwayne Johnson",2274.8,23,98.9,"Furious 7",353
+"388","Jake Johnson",811.1,9,90.1,"Jurassic World",652.3
+"389","Angelina Jolie",2179.5,32,68.1,"Maleficent",241.4
+"390","Nick Jonas",NA,1,NA,"Goat",NA
+"391","Felicity Jones",50.1,10,5,"The Theory of Everything",35.9
+"392","January Jones",378.1,9,42,"X-Men: First Class",146.4
+"393","Rashida Jones",357.9,11,32.5,"The Social Network",97
+"394","Tommy Lee Jones",2692.2,46,58.5,"Men in Black",250.7
+"395","Michael B. Jordan",272.6,5,54.5,"Creed",109.8
+"396","Seu Jorge",36.1,7,5.2,"The Life Aquatic",24
+"397","Milla Jovovich",504.2,24,21,"Fifth Element",63.8
+"398","Ashley Judd",1044.2,27,38.7,"Divergent",150.9
+"399","Miranda July",4.5,2,2.2,"Me and You and Everyone We Know",3.9
+"400","Mindy Kaling",470.9,3,157,"Inside Out",356.5
+"401","Philip Kaufman",163.2,7,23.3,"Rising Sun",63.2
+"402","Zoe Kazan",197.2,14,14.1,"It's Complicated",112.7
+"403","Diane Keaton",1239.2,37,33.5,"The Godfather",135
+"404","Michael Keaton",2126.3,35,60.8,"Toy Story 3",415
+"405","Minka Kelly",38.4,2,19.2,"The Roommate",37.3
+"406","Alex Kendrick",78.2,3,26.1,"Courageous",34.5
+"407","Anna Kendrick",721.2,19,38,"Pitch Perfect 2",184.3
+"408","Irrfan Khan",1187,7,169.6,"Jurassic World",652.3
+"409","Nicole Kidman",1666.2,44,37.9,"Happy Feet",198
+"410","Val Kilmer",1040.9,34,30.6,"Batman Forever",184
+"411","Joey King",662.9,8,82.9,"Oz The Great and Powerful",234.9
+"412","Ben Kingsley",2063.5,50,41.3,"Iron Man 3",409
+"413","Greg Kinnear",1148,35,32.8,"As Good as It Gets",148.5
+"414","Taylor Kitsch",551.7,8,69,"X-Men Origins: Wolverine",179.9
+"415","Chris Klein",481.6,14,34.4,"American Pie 2",145.1
+"416","Kevin Kline",991.7,38,26.1,"Wild Wild West",113.8
+"417","Keira Knightley",1533.7,24,63.9,"Dead Man's Chest",423.3
+"418","Beyonce Knowles",613.1,7,87.6,"Goldmember",213.3
+"419","Johnny Knoxville",931.2,16,58.2,"Ninja Turtles",191.2
+"420","Boris Kodjoe",286.4,8,35.8,"Madea's Family Reunion",63.3
+"421","John Krasinski",415.2,18,23.1,"It's Complicated",112.7
+"422","Peter Krause",155.6,4,38.9,"Truman Show",125.6
+"423","Lenny Kravitz",996.9,4,249.2,"Catching Fire",424.7
+"424","Lisa Kudrow",434.4,18,24.1,"Analyze This",106.9
+"425","Mila Kunis",1097.8,17,64.6,"Oz The Great and Powerful",234.9
+"426","Olga Kurylenko",391.7,12,32.6,"Quantum of Solace",168.4
+"427","Ashton Kutcher",957.2,19,50.4,"Cheaper by the Dozen",138.6
+"428","Shia LaBeouf",2128.6,21,101.4,"Transformers 2",402.1
+"429","Diane Lane",1783.9,39,45.7,"Inside Out",356.5
+"430","Jessica Lange",410.9,13,31.6,"Tootsie",177.2
+"431","Frank Langella",679.5,32,21.2,"Superman Returns",200.1
+"432","Larry the Cable Guy",464.1,6,77.4,"Cars",244.1
+"433","Brie Larson",322.5,6,53.8,"21 Jump Street",138.4
+"434","Ali Larter",552.7,12,46.1,"Legally Blonde",96.5
+"435","Sanaa Lathan",452.6,14,32.3,"Alien Vs. Predator",80.3
+"436","Queen Latifah",1934.6,30,64.5,"Ice Age 3",196.6
+"437","Melanie Laurent",245.8,6,41,"Inglourious Basterds",120.5
+"438","Hugh Laurie",890.3,17,52.4,"Monsters Vs. Aliens",198.4
+"439","Taylor Lautner",1482.2,8,185.3,"The Twilight Saga: Eclipse",300.5
+"440","Jude Law",1632,39,41.8,"Sherlock Holmes",209
+"441","Jennifer Lawrence",2368.9,17,139.3,"Catching Fire",424.7
+"442","Martin Lawrence",1291,24,53.8,"Wild Hogs",168.3
+"443","Sharon Leal",297.3,6,49.5,"Dreamgirls",103.4
+"444","Matt LeBlanc",73.6,3,24.5,"Lost in Space",69.1
+"445","Heath Ledger",955.6,15,63.7,"The Dark Knight",534.9
+"446","Christopher Lee",1666.4,8,208.3,"Revenge of the Sith",380.3
+"447","John Leguizamo",1889.7,52,36.3,"Ice Age 3",196.6
+"448","Melissa Leo",776.1,30,25.9,"The Equalizer",101.5
+"449","Tea Leoni",730.2,13,56.2,"Jurassic Park III",181.2
+"450","Logan Lerman",505.9,14,36.1,"Noah",101.2
+"451","Jared Leto",535.4,11,48.7,"Suicide Squad",321.4
+"452","Tracy Letts",4.9,3,1.6,"Indignation",3.4
+"453","Zachary Levi",697,5,139.4,"Alvin and the Chipmunks 2",219.6
+"454","Jet Li",822.2,18,45.7,"Lethal Weapon 4",130.4
+"455","Matthew Lillard",716.7,25,28.7,"Scooby-Doo",153.3
+"456","Evangeline Lilly",779.2,4,194.8,"The Hobbit 2",258.4
+"457","Laura Linney",950.4,35,27.2,"Truman Show",125.6
+"458","Lucy Liu",1038.3,18,57.7,"Kung Fu Panda",215.4
+"459","Blake Lively",484.8,10,48.5,"Green Lantern",116.6
+"460","Ron Livingston",484.8,25,19.4,"The Conjuring",137.4
+"461","Lindsay Lohan",492.4,15,32.8,"Freaky Friday",110.2
+"462","Justin Long",1541,34,45.3,"Alvin and the Chipmunks 2",219.6
+"463","Nia Long",796.4,21,37.9,"Big Momma's House",117.6
+"464","Jennifer Lopez",1254.2,27,46.5,"Home",177.4
+"465","Rob Lowe",607.5,22,27.6,"The Spy Who Shagged Me",206
+"466","Jessica Lucas",229.3,5,45.9,"Cloverfield",80
+"467","Josh Lucas",791.1,24,33,"A Beautiful Mind",170.7
+"468","Derek Luke",582.8,17,34.3,"Captain America",176.7
+"469","Diego Luna",337.9,13,26,"Elysium",93.1
+"470","Kellan Lutz",1482.8,16,92.7,"The Twilight Saga: Eclipse",300.5
+"471","Bernie Mac",989.6,14,70.7,"Ocean's Eleven",183.4
+"472","Seth MacFarlane",479.4,5,95.9,"Ted",218.8
+"473","Anthony Mackie",1869.2,33,56.6,"Avengers: Age of Ultron",459
+"474","William H. Macy",1246.2,38,32.8,"Jurassic Park III",181.2
+"475","Madonna",349.3,14,24.9,"League of Their Own",107.5
+"476","Virginia Madsen",476,30,15.9,"Sideways",71.5
+"477","Tobey Maguire",1537.5,14,109.8,"Spider-Man",403.7
+"478","John Malkovich",1514.9,50,30.3,"Transformers 3",352.4
+"479","Jena Malone",1319.2,21,62.8,"Catching Fire",424.7
+"480","Leslie Mann",1473.1,24,61.4,"Big Daddy",163.5
+"481","Thomas Mann",139.3,4,34.8,"Hansel and Gretel",55.7
+"482","Rooney Mara",430.8,15,28.7,"Girl with the Dragon Tattoo",102.5
+"483","Brit Marling",17.2,7,2.5,"Arbitrage",7.9
+"484","James Marsden",1845.3,32,57.7,"X-Men: The Last Stand",234.4
+"485","Garry Marshall",67.2,1,67.2,"Race to Witch Mountain",67.2
+"486","Demetri Martin",17.4,3,5.8,"Taking Woodstock",7.5
+"487","Steve Martin",1784,36,49.6,"Home",177.4
+"488","Peter Mayhew",1997.4,4,499.4,"Star Wars: The Force Awakens",936.7
+"489","Rachel McAdams",1392.1,23,60.5,"Wedding Crashers",209.3
+"490","Callan McAuliffe",56.9,2,28.4,"I Am Number Four",55.1
+"491","James McAvoy",942,20,47.1,"X-Men: Days of Future Past",233.9
+"492","Danny McBride",734.6,17,43.2,"Tropic Thunder",110.5
+"493","Melissa McCarthy",1110.9,13,85.5,"Bridesmaids",169.1
+"494","Matthew McConaughey",1596.5,35,45.6,"Interstellar",188
+"495","Ian McDiarmid",1474.8,4,368.7,"The Phantom Menace",474.5
+"496","Frances McDormand",1330.9,34,39.1,"Transformers 3",352.4
+"497","Ewan McGregor",2086.6,45,46.4,"The Phantom Menace",474.5
+"498","Ian McKellen",3150.4,31,101.6,"Return of the King",377.8
+"499","Katherine McPhee",67.1,2,33.6,"The House Bunny",48.2
+"500","Leighton Meester",264,10,26.4,"Date Night",98.7
+"501","Carlos Mencia",57,2,28.5,"The Heartbreak Kid",36.8
+"502","Eva Mendes",873.4,19,46,"Hitch",179.5
+"503","Scott Mescudi",43.7,3,14.6,"Need for Speed",43.6
+"504","Chris Messina",210.8,17,12.4,"Julie & Julia",94.1
+"505","Breckin Meyer",433.6,12,36.1,"Garfield",75.4
+"506","Jonathan Rhys Meyers",335.9,17,19.8,"Mission: Impossible III",134
+"507","Alyson Michalka",100.9,3,33.6,"Easy A",58.4
+"508","Bette Midler",754.5,20,37.7,"First Wives Club",105.5
+"509","Mads Mikkelsen",407,13,31.3,"Casino Royale",167.4
+"510","Ezra Miller",137.1,9,15.2,"Trainwreck",110.2
+"511","Nicki Minaj",137.9,2,69,"The Other Woman",83.9
+"512","Christopher Mintz-Plasse",965.1,12,80.4,"How to Train Your Dragon",217.6
+"513","Helen Mirren",1289.8,44,29.3,"Monsters University",268.5
+"514","John Cameron Mitchell",9.3,3,3.1,"Band of the Hand",4.9
+"515","Radha Mitchell",542.6,23,23.6,"Olympus Has Fallen",98.9
+"516","Alfred Molina",1173.6,41,28.6,"Spider-Man 2",373.6
+"517","Jason Momoa",30.8,3,10.3,"Conan the Barbarian",21.3
+"518","Michelle Monaghan",666.6,17,39.2,"Mission: Impossible III",134
+"519","Demi Moore",1025.3,31,33.1,"Ghost",217.6
+"520","Joel David Moore",915.1,14,65.4,"Avatar",760.5
+"521","Julianne Moore",1973.3,55,35.9,"Mockingjay Part 1",337.1
+"522","Mandy Moore",421.5,12,35.1,"Tangled",200.8
+"523","Roger Moore",587.8,15,39.2,"The Cannonball Run",72.2
+"524","Chloe Moretz",786.6,20,39.3,"The Equalizer",101.5
+"525","Jeffrey Dean Morgan",287.6,13,22.1,"Watchmen",107.5
+"526","Tracy Morgan",456,12,38,"Rio 2",131.5
+"527","Viggo Mortensen",1530.2,29,52.8,"Return of the King",377.8
+"528","Carrie-Anne Moss",850.1,16,53.1,"The Matrix Reloaded",281.6
+"529","Elisabeth Moss",132.8,15,8.9,"Get Him to the Greek",61
+"530","Bridget Moynahan",604.6,12,50.4,"I Robot",144.8
+"531","Carey Mulligan",320,11,29.1,"The Great Gatsby",144.8
+"532","Frankie Muniz",233,7,33.3,"Racing Stripes",49.8
+"533","Brittany Murphy",706.9,16,44.2,"Happy Feet",198
+"534","Cillian Murphy",709.9,16,44.4,"Inception",292.6
+"535","Eddie Murphy",3811.1,39,97.7,"Shrek 2",441.2
+"536","Bill Murray",2054.5,43,47.8,"The Jungle Book",364
+"537","Mike Myers",2211.4,15,147.4,"Shrek 2",441.2
+"538","Naturi Naughton",47.2,2,23.6,"Lottery Ticket",24.7
+"539","Liam Neeson",2942.8,63,46.7,"The Phantom Menace",474.5
+"540","Craig T. Nelson",1122.1,21,53.4,"The Incredibles",261.4
+"541","Paul Newman",1082,20,54.1,"Cars",244.1
+"542","Thandie Newton",904,23,39.3,"Mission: Impossible II",215.4
+"543","Mike Nichols",NA,1,NA,"The Designated Mourner",NA
+"544","Jack Nicholson",1795.5,34,52.8,"Batman",251.2
+"545","Leslie Nielsen",617.9,19,32.5,"Scary Movie 3",110
+"546","Leonard Nimoy",820.3,11,74.6,"Star Trek",257.7
+"547","Chuck Norris",279.7,17,16.5,"The Expendables 2",85
+"548","Dean Norris",40.2,5,8,"The Secret in their Eyes (2015)",20.2
+"549","Edward Norton",1039.9,24,43.3,"The Incredible Hulk",134.8
+"550","Lupita Nyong'o",1453.3,5,290.7,"Star Wars: The Force Awakens",936.7
+"551","Michael Nyqvist",303.6,9,33.7,"Mission: Impossible 4",209.4
+"552","Jack O'Connell",266.7,8,33.3,"Unbroken",115.6
+"553","Chris O'Donnell",779.3,19,41,"Batman Forever",184
+"554","Jason O'Mara",77.1,2,38.5,"Resident Evil: Extinction",50.6
+"555","Sophie Okonedo",103.5,7,14.8,"The Secret Life of Bees",37.8
+"556","Gary Oldman",3294,38,86.7,"The Dark Knight",534.9
+"557","Elizabeth Olsen",1089.8,13,83.8,"Avengers: Age of Ultron",459
+"558","Mary-Kate Olsen",63.5,4,15.9,"Beastly",27.9
+"559","Timothy Olyphant",693.8,22,31.5,"Live Free or Die Hard",134.5
+"560","Clive Owen",506.5,25,20.3,"Inside Man",88.5
+"561","David Oyelowo",508,13,39.1,"Rise of the Planet of the Apes",176.8
+"562","Al Pacino",1457.3,39,37.4,"The Godfather",135
+"563","Ellen Page",714,15,47.6,"Inception",292.6
+"564","Adrianne Palicki",210.4,4,52.6,"G.I. Joe: Retaliation",122.5
+"565","Teresa Palmer",468.9,15,31.3,"Bedtime Stories",110.1
+"566","Gwyneth Paltrow",1834,33,55.6,"Iron Man 3",409
+"567","Hayden Panettiere",338.4,12,28.2,"Remember the Titans",115.7
+"568","Anna Paquin",997.6,19,52.5,"X-Men: The Last Stand",234.4
+"569","Sarah Jessica Parker",990.6,28,35.4,"Sex and the City",152.6
+"570","Dev Patel",388,7,55.4,"Slumdog Millionaire",141.3
+"571","Robert Pattinson",1734.2,13,133.4,"The Twilight Saga: Eclipse",300.5
+"572","Paula Patton",622,13,47.8,"Mission: Impossible 4",209.4
+"573","Sarah Paulson",72.4,4,18.1,"12 Years a Slave",56.7
+"574","Guy Pearce",1212.5,33,36.7,"Iron Man 3",409
+"575","Amanda Peet",882,26,33.9,"2012",166.1
+"576","Simon Pegg",1682.9,19,88.6,"Star Trek",257.7
+"577","Kal Penn",415.2,13,31.9,"Superman Returns",200.1
+"578","Sean Penn",867.6,39,22.2,"Angry Birds",107.5
+"579","Piper Perabo",581.2,16,36.3,"Cheaper by the Dozen",138.6
+"580","Ron Perlman",707.6,21,33.7,"Tangled",200.8
+"581","Alex Ross Perry",NA,1,NA,"7 Chinese Brothers",NA
+"582","Matthew Perry",200.9,7,28.7,"17 Again",64.2
+"583","Tyler Perry",948.8,16,59.3,"Gone Girl",167.8
+"584","Alex Pettyfer",259.4,7,37.1,"Magic Mike",113.7
+"585","Michelle Pfeiffer",1431.1,36,39.8,"Batman Returns",162.8
+"586","Ryan Phillippe",400.4,16,25,"I Know What You Did Last Summer",72.6
+"587","Joaquin Phoenix",1013.2,27,37.5,"Signs",228
+"588","Rosamund Pike",702.9,18,39,"Gone Girl",167.8
+"589","Chris Pine",1336.4,19,70.3,"Star Trek",257.7
+"590","Jada Pinkett-Smith",1699.4,22,77.2,"The Matrix Reloaded",281.6
+"591","Freida Pinto",406.2,8,50.8,"Rise of the Planet of the Apes",176.8
+"592","Brad Pitt",2680.9,40,67,"World War Z",202.4
+"593","Aubrey Plaza",173.9,11,15.8,"Funny People",51.9
+"594","Jesse Plemons",349.1,12,29.1,"Bridge of Spies",72.3
+"595","Christopher Plummer",838.2,19,44.1,"National Treasure",173
+"596","Sydney Pollack",533.3,10,53.3,"Tootsie",177.2
+"597","Sarah Polley",116.2,19,6.1,"Dawn of the Dead",59
+"598","Imogen Poots",136.5,15,9.1,"Need for Speed",43.6
+"599","Natalie Portman",2063.2,27,76.4,"The Phantom Menace",474.5
+"600","Parker Posey",598.7,32,18.7,"Superman Returns",200.1
+"601","Franka Potente",360,9,40,"The Bourne Supremacy",176.2
+"602","Bel Powley",1.7,3,NA,"The Diary of a Teenage Girl",1.5
+"603","Chris Pratt",1566.7,13,120.5,"Jurassic World",652.3
+"604","Freddie Prinze Jr.",518.7,16,32.4,"Scooby-Doo",153.3
+"605","Jonathan Pryce",1567.5,32,49,"Dead Man's Chest",423.3
+"606","James Purefoy",187.8,6,31.3,"John Carter",73.1
+"607","Dennis Quaid",1687.4,55,30.7,"The Day After Tomorrow",186.7
+"608","Randy Quaid",948.7,38,25,"Independence Day",306.2
+"609","Daniel Radcliffe",2634.4,17,155,"Harry Potter / Deathly Hallows (P2)",381
+"610","Josh Radnor",NA,3,NA,"Liberal Arts",NA
+"611","Edgar Ramirez",537.7,9,59.7,"The Bourne Ultimatum",227.5
+"612","Harold Ramis",11.6,1,11.6,"The Last Kiss (2006)",11.6
+"613","Noomi Rapace",359.2,9,39.9,"Sherlock Holmes 2",186.8
+"614","Emily Ratajkowski",3.6,1,3.6,"We Are Your Friends",3.6
+"615","Jackson Rathbone",1302.5,5,260.5,"The Twilight Saga: Eclipse",300.5
+"616","Max Records",107.7,2,53.8,"Where the Wild Things Are",77.2
+"617","Lance Reddick",120.6,6,20.1,"Don't Say a Word",55
+"618","Robert Redford",1641.9,30,54.7,"Captain America 2",259.8
+"619","Eddie Redmayne",285,8,35.6,"Les Miserables",148.8
+"620","Crystal Reed",21.5,2,10.7,"Skyline",21.4
+"621","Christopher Reeve",427.6,15,28.5,"Superman",134.2
+"622","Keanu Reeves",1867.2,44,42.4,"The Matrix Reloaded",281.6
+"623","John C. Reilly",1540.7,34,45.3,"Guardians of the Galaxy",333.2
+"624","Rob Reiner",116.9,1,116.9,"The Wolf of Wall Street",116.9
+"625","Jeremy Renner",2500.4,21,119.1,"The Avengers",623.4
+"626","Ryan Reynolds",1646.5,31,53.1,"Deadpool",363.1
+"627","Giovanni Ribisi",1928.3,31,62.2,"Avatar",760.5
+"628","Christina Ricci",743.7,35,21.2,"Addams Family",113.5
+"629","Denise Richards",365.4,11,33.2,"World Is Not Enough",126.9
+"630","Alan Rickman",1783.4,27,66.1,"Harry Potter / Deathly Hallows (P2)",381
+"631","Daisy Ridley",936.7,1,936.7,"Star Wars: The Force Awakens",936.7
+"632","Rob Riggle",906.8,12,75.6,"The Lorax",214
+"633","Noah Ringer",131.8,1,131.8,"The Last Airbender",131.8
+"634","AnnaSophia Robb",272.7,8,34.1,"Bridge to Terabithia",82.3
+"635","Margot Robbie",657.4,7,93.9,"Suicide Squad",321.4
+"636","Tim Robbins",890.3,37,24.1,"War of the Worlds",234.3
+"637","Emma Roberts",467.2,16,29.2,"We're the Millers",150.4
+"638","Julia Roberts",2735.3,42,65.1,"Ocean's Eleven",183.4
+"639","Chris Rock",1603,23,69.7,"Madagascar 3",216.4
+"640","Sam Rockwell",1054.2,34,31,"Iron Man 2",312.4
+"641","Gina Rodriguez",50.1,4,12.5,"Deepwater Horizon",26.8
+"642","Michelle Rodriguez",2097.2,17,123.4,"Avatar",760.5
+"643","Seth Rogen",2207.4,25,88.3,"Kung Fu Panda",215.4
+"644","Elisabeth Rohm",56.5,1,56.5,"Joy",56.5
+"645","Rebecca Romijn",680.4,8,85.1,"X-Men: The Last Stand",234.4
+"646","Saoirse Ronan",270.3,13,20.8,"The Grand Budapest Hotel",59.3
+"647","Emmy Rossum",331.2,12,27.6,"The Day After Tomorrow",186.7
+"648","Eli Roth",NA,1,NA,"Aftershock",NA
+"649","Mickey Rourke",842.3,36,23.4,"Iron Man 2",312.4
+"650","Brandon Routh",203.1,3,67.7,"Superman Returns",200.1
+"651","Gena Rowlands",358.2,21,17.1,"The Notebook",81
+"652","Paul Rudd",1828.8,33,55.4,"Captain America 3",408.1
+"653","Mark Ruffalo",1912.5,34,56.2,"The Avengers",623.4
+"654","Geoffrey Rush",1541.7,29,53.2,"Pirates of the Caribbean 3",309.4
+"655","Alex Russell",180.2,4,45.1,"Unbroken",115.6
+"656","Kurt Russell",1558,35,44.5,"Furious 7",353
+"657","Rene Russo",1523.9,22,69.3,"Thor: The Dark World",206.4
+"658","Amy Ryan",478.4,20,23.9,"Central Intelligence",127.4
+"659","Meg Ryan",1151.7,29,39.7,"Top Gun",179.8
+"660","Winona Ryder",916.6,36,25.5,"Mr. Deeds",126.3
+"661","Mark Rylance",169.7,5,33.9,"Bridge of Spies",72.3
+"662","Katee Sackhoff",100.1,3,33.4,"Riddick",42
+"663","Zoe Saldana",2239.2,26,86.1,"Avatar",760.5
+"664","Andy Samberg",667.1,12,55.6,"Hotel Transylvania 2",169.7
+"665","Adam Sandler",2661,32,83.2,"Hotel Transylvania 2",169.7
+"666","Rodrigo Santoro",584,9,64.9,"300",210.6
+"667","Susan Sarandon",1426.1,59,24.2,"Enchanted",127.8
+"668","Peter Sarsgaard",671.3,26,25.8,"Green Lantern",116.6
+"669","Akiva Schaffer",9.5,1,9.5,"Popstar",9.5
+"670","Taylor Schilling",66.2,3,22.1,"The Lucky One",60.5
+"671","Joseph Schneider",NA,1,NA,"I'm Not Jesus Mommy",NA
+"672","Rob Schneider",895.1,17,52.7,"Big Daddy",163.5
+"673","Matthias Schoenaerts",49.4,11,4.5,"Far from the Madding Crowd",12.2
+"674","Liev Schreiber",1155.2,32,36.1,"X-Men Origins: Wolverine",179.9
+"675","Jason Schwartzman",457.2,23,19.9,"Saving Mr. Banks",83.3
+"676","Arnold Schwarzenegger",1884,30,62.8,"Terminator 2",204.8
+"677","David Schwimmer",683,10,68.3,"Madagascar 3",216.4
+"678","Adam Scott",578.6,25,23.1,"Step Brothers",100.5
+"679","Jason Segel",929.4,15,62,"Despicable Me",251.5
+"680","Andy Serkis",2890.6,23,125.7,"Star Wars: The Force Awakens",936.7
+"681","Chloe Sevigny",98.6,19,5.2,"Zodiac",33.1
+"682","Rufus Sewell",489.1,21,23.3,"Hercules",72.7
+"683","Amanda Seyfried",957.3,23,41.6,"Les Miserables",148.8
+"684","Tupac Shakur",83.1,6,13.8,"Poetic Justice",27.5
+"685","Suraj Sharma",161.4,2,80.7,"Life of Pi",125
+"686","Charlie Sheen",905.8,30,30.2,"Platoon",138.5
+"687","Michael Sheen",1470.1,24,61.3,"Alice in Wonderland",334.2
+"688","Tye Sheridan",195.1,7,27.9,"X-Men: Apocalypse",155.4
+"689","M. Night Shyamalan",42.3,1,42.3,"Lady in the Water",42.3
+"690","Gabourey Sidibe",132.5,4,33.1,"Tower Heist",78
+"691","Sebastián Silva",NA,1,NA,"Nasty Baby",NA
+"692","Alicia Silverstone",353.9,14,25.3,"Batman and Robin",107.3
+"693","Stellan Skarsgard",3175,43,73.8,"The Avengers",623.4
+"694","Alexander Skarsgård",191.4,8,23.9,"The Legend of Tarzan",126.6
+"695","John Slattery",773.3,11,70.3,"Iron Man 2",312.4
+"696","Kodi Smit-McPhee",440.7,8,55.1,"Dawn of the Planet of the Apes",208.5
+"697","Jaden Smith",480,4,120,"The Karate Kid",176.6
+"698","Kevin Smith",207.7,6,34.6,"Live Free or Die Hard",134.5
+"699","Maggie Smith",647.6,22,29.4,"Sister Act",139.6
+"700","Will Smith",3170.3,24,132.1,"Suicide Squad",321.4
+"701","Wesley Snipes",976.5,31,31.5,"Blade II",82.3
+"702","Kang-ho Song",14,8,1.7,"The Interview (2014)",6.1
+"703","Kevin Spacey",1421.8,37,38.4,"Superman Returns",200.1
+"704","David Spade",738.5,14,52.8,"Hotel Transylvania 2",169.7
+"705","Morgan Spurlock",NA,1,NA,"POM Wonderful Presents: The Greatest Movie Ever Sold",NA
+"706","Sylvester Stallone",2050.4,41,50,"Rambo: First Blood Part II",150.4
+"707","Sebastian Stan",1158.2,14,82.7,"Captain America 3",408.1
+"708","Jason Statham",1283,31,41.4,"Furious 7",353
+"709","Imelda Staunton",669.9,15,44.7,"Harry Potter / Phoenix",292
+"710","Hailee Steinfeld",466,11,42.4,"Pitch Perfect 2",184.3
+"711","Dan Stevens",143.6,4,35.9,"Night at the Museum: Secret of the Tomb",113.7
+"712","Ray Stevenson",1166.8,16,72.9,"Thor: The Dark World",206.4
+"713","Kristen Stewart",1815.8,27,67.3,"The Twilight Saga: Eclipse",300.5
+"714","Patrick Stewart",1222.1,18,67.9,"X-Men: The Last Stand",234.4
+"715","Julia Stiles",1040.6,20,52,"The Bourne Ultimatum",227.5
+"716","Ben Stiller",2827,37,76.4,"Meet the Fockers",279.3
+"717","Emma Stone",1395.5,17,82.1,"The Amazing Spider-Man",262
+"718","Sharon Stone",722.7,34,21.3,"Total Recall",119.4
+"719","Meryl Streep",2038.2,53,38.5,"Mamma Mia!",144.1
+"720","Barbra Streisand",995.4,15,66.4,"Meet the Fockers",279.3
+"721","Mark Strong",1130.1,34,33.2,"Sherlock Holmes",209
+"722","Jim Sturgess",232.8,12,19.4,"21",81.2
+"723","Tom Sturridge",23.2,6,3.9,"Far from the Madding Crowd",12.2
+"724","Jason Sudeikis",893.8,17,52.6,"We're the Millers",150.4
+"725","Jeremy Sumpter",139.9,4,35,"Peter Pan",48.5
+"726","Kiefer Sutherland",1070.5,34,31.5,"Monsters Vs. Aliens",198.4
+"727","Hilary Swank",448,16,28,"Million Dollar Baby",100.5
+"728","Nick Swardson",792.5,13,61,"Grown Ups 2",133.7
+"729","Patrick Swayze",572.8,23,24.9,"Ghost",217.6
+"730","Tilda Swinton",1047.9,32,32.7,"The Chronicles of Narnia",291.7
+"731","Omar Sy",910.2,5,182,"Jurassic World",652.3
+"732","Jorma Taccone",330.6,4,82.7,"The LEGO Movie",257.8
+"733","Quentin Tarantino",28.7,2,14.3,"From Dusk Till Dawn",25.8
+"734","Channing Tatum",1933,30,64.4,"The LEGO Movie",257.8
+"735","Christine Taylor",307.9,7,44,"DodgeBall",114.3
+"736","Aimee Teegarden",10.2,3,3.4,"Prom",10.1
+"737","Miles Teller",626.7,13,48.2,"Divergent",150.9
+"738","Juno Temple",387.1,16,24.2,"Maleficent",241.4
+"739","Charlize Theron",1372.4,34,40.4,"Hancock",227.9
+"740","Max Thieriot",233.5,9,25.9,"The Pacifier",113.1
+"741","Olivia Thirlby",348.9,16,21.8,"Juno",143.5
+"742","Emma Thompson",1054.1,30,35.1,"Brave",237.3
+"743","Tessa Thompson",166.2,3,55.4,"Creed",109.8
+"744","Bella Thorne",242,5,48.4,"Alvin and the Chipmunks: The Road Chip",85.9
+"745","Billy Bob Thornton",1039,34,30.6,"Armageddon",201.6
+"746","Uma Thurman",774.4,31,25,"Pulp Fiction",107.9
+"747","Brenton Thwaites",314.8,4,78.7,"Maleficent",241.4
+"748","Justin Timberlake",516.4,13,39.7,"Bad Teacher",100.3
+"749","Analeigh Tipton",151.8,4,37.9,"Crazy Stupid Love.",84.4
+"750","Marisa Tomei",1695.9,43,39.4,"Captain America 3",408.1
+"751","Lily Tomlin",451.6,20,22.6,"9 to 5",103.3
+"752","Michelle Trachtenberg",254.2,8,31.8,"Inspector Gadget",97.4
+"753","John Travolta",2398.8,44,54.5,"Grease",188.8
+"754","Stanley Tucci",3123.9,50,62.5,"Catching Fire",424.7
+"755","Chris Tucker",795.9,8,99.5,"Rush Hour 2",226.2
+"756","Liv Tyler",1545.6,23,67.2,"Return of the King",377.8
+"757","Carrie Underwood",43.9,1,43.9,"Soul Surfer",43.9
+"758","Kate Upton",128.2,2,64.1,"The Other Woman",83.9
+"759","Karl Urban",1959.9,18,108.9,"Return of the King",377.8
+"760","Wilmer Valderrama",76.8,8,9.6,"Larry Crowne",35.6
+"761","Nia Vardalos",317.9,5,63.6,"My Big Fat Greek Wedding",241.4
+"762","Vince Vaughn",1716.8,34,50.5,"The Lost World",229.1
+"763","Alexa Vega",369.5,9,41.1,"Spy Kids",112.7
+"764","Alicia Vikander",287,7,41,"Jason Bourne",161.8
+"765","Goran Visnjic",86.1,7,12.3,"Practical Magic",46.7
+"766","Mike Vogel",523,10,52.3,"The Help",169.7
+"767","Jon Voight",2027.8,33,61.4,"Transformers",319.2
+"768","Mark Wahlberg",2576.6,37,69.6,"Transformers 4",245.4
+"769","David Wain",NA,2,NA,"Delirious (2007)",NA
+"770","Rhys Wakefield",46.7,3,15.6,"Endless Love",23.4
+"771","Christopher Walken",2092.8,62,33.8,"The Jungle Book",364
+"772","Paul Walker",1644.4,19,86.5,"Furious 7",353
+"773","Quvenzhane Wallis",99.4,3,33.1,"Annie (2014)",85.9
+"774","Christoph Waltz",967.2,12,80.6,"Spectre",200.1
+"775","Denzel Washington",2303.6,44,52.4,"American Gangster",130.2
+"776","Mia Wasikowska",534.2,17,31.4,"Alice in Wonderland",334.2
+"777","Emma Watson",2681.9,17,157.8,"Harry Potter / Deathly Hallows (P2)",381
+"778","Naomi Watts",920.6,33,27.9,"King Kong",218.1
+"779","Damon Wayans",217.4,11,19.8,"The Last Boy Scout",59.5
+"780","Keenen Ivory Wayans",69.2,4,17.3,"A Low Down Dirty Shame",29.4
+"781","Marlon Wayans",765.6,17,45,"Scary Movie",157
+"782","Shawn Wayans",377.9,5,75.6,"Scary Movie",157
+"783","John Wayne",8.2,2,4.1,"The Shootist",8.1
+"784","Sigourney Weaver",2276.4,46,49.5,"Avatar",760.5
+"785","Hugo Weaving",2121,18,117.8,"Fellowship of the Ring",315.5
+"786","Rachel Weisz",1222.3,34,36,"Oz The Great and Powerful",234.9
+"787","Leigh Whannell",NA,1,NA,"Cooties",NA
+"788","Ben Whishaw",666.8,13,51.3,"Skyfall",304.4
+"789","Forest Whitaker",1480.2,53,27.9,"Platoon",138.5
+"790","Kristen Wiig",1908.6,30,63.6,"Despicable Me 2",368.1
+"791","Olivia Wilde",571.5,21,27.2,"Tron Legacy",172.1
+"792","Tom Wilkinson",1201.2,44,27.3,"Rush Hour",141.2
+"793","Michael K. Williams",600.9,14,42.9,"The Incredible Hulk",134.8
+"794","Michelle Williams",644.8,24,26.9,"Oz The Great and Powerful",234.9
+"795","Robin Williams",3279.3,49,66.9,"Night at the Museum",250.9
+"796","Bruce Willis",3189.4,60,53.2,"Sixth Sense",293.5
+"797","Luke Wilson",645.1,30,21.5,"Legally Blonde",96.5
+"798","Owen Wilson",2611,40,65.3,"Night at the Museum",250.9
+"799","Patrick Wilson",770.5,18,42.8,"The Conjuring",137.4
+"800","Rebel Wilson",467.1,7,66.7,"Pitch Perfect 2",184.3
+"801","Kate Winslet",1452.2,30,48.4,"Titanic",658.7
+"802","Mary Elizabeth Winstead",479.9,17,28.2,"Live Free or Die Hard",134.5
+"803","Reese Witherspoon",1254,30,41.8,"Monsters Vs. Aliens",198.4
+"804","Ellen Wong",31.5,1,31.5,"Scott Pilgrim vs. the World",31.5
+"805","Elijah Wood",1889.3,37,51.1,"Return of the King",377.8
+"806","Shailene Woodley",581.1,8,72.6,"Divergent",150.9
+"807","Kenny Wormald",64.4,4,16.1,"Footloose",51.8
+"808","Sam Worthington",1205.3,13,92.7,"Avatar",760.5
+"809","Jeffrey Wright",2006.1,26,77.2,"Catching Fire",424.7
+"810","Robin Wright",332.6,5,66.5,"Forrest Gump",330.3
+"811","Anton Yelchin",1087.1,20,54.4,"Star Trek",257.7
+"812","Donnie Yen",227.1,10,22.7,"Blade II",82.3
+"813","Michelle Yeoh",503,10,50.3,"Kung Fu Panda 2",165.2
+"814","Renee Zellweger",1190.2,27,44.1,"Chicago",170.7
+"815","Catherine Zeta-Jones",1229.3,24,51.2,"Chicago",170.7
+"816","Zhang Ziyi",485.9,10,48.6,"Rush Hour 2",226.2
+"817","Josh Zuckerman",8.4,2,4.2,"Sex Drive",8.4
