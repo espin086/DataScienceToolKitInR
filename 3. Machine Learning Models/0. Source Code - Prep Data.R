@@ -52,7 +52,7 @@ prep.data <- function(dataframe, target){
         #Center Scale
         dataframe <- center.scale(dataframe)
         #Mice Imputation
-        dataframe <- mice.imp(dataframe)
+        #dataframe <- mice.imp(dataframe)
         #Hot Encode factors
         dataframe <- hot.encode(dataframe)
         #Returning dataframe
