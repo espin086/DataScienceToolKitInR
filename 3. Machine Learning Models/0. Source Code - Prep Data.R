@@ -11,7 +11,6 @@ remove.zero <- function(dataframe){
         myvars <- names(dataframe) %in% nzv
         return(dataframe)
 }
-
 #Center and scaling
 center.scale <- function(dataframe){
         library(MASS) #used for center and scaling
@@ -19,19 +18,14 @@ center.scale <- function(dataframe){
         ind.n <- sapply(dataframe, is.numeric)
         dataframe[ind.n] <- lapply(dataframe[ind.n], scale)
         return(dataframe)
-        
 }
-
-
 #Performing MICE Imputation
 mice.imp <- function(dataframe){
         library(mice)
         mice_mod <- mice(dataframe, method='rf') 
         dataframe <- complete(mice_mod)
         return(dataframe)
-        
 }
-
 #Hot Encoding all factor variables
 hot.encode <- function(dataframe){
         dataframe <- model.matrix(~ ., data=dataframe, 
@@ -40,23 +34,24 @@ hot.encode <- function(dataframe){
         
 }
 
-
-
 #####################################################
 #Main Function
 #####################################################
 
-prep.data <- function(dataframe, target){
+prep.data <- function(dataframe){
+        
         #Removing data with zero variance
-        dataframe <- remove.zero(dataframe)
+        dataframe.1 <- remove.zero(dataframe)
         #Center Scale
-        dataframe <- center.scale(dataframe)
+        dataframe.2 <- center.scale(dataframe)
         #Mice Imputation
-        #dataframe <- mice.imp(dataframe)
+        dataframe.3 <- mice.imp(dataframe)
         #Hot Encode factors
-        dataframe <- hot.encode(dataframe)
+        dataframe.4 <- hot.encode(dataframe)
         #Returning dataframe
-        return(dataframe)  
+        results <- list(dataframe.1, dataframe.2, dataframe.3, dataframe.4)
+        return(results)
+        
 }
 
 

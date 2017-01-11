@@ -15,6 +15,15 @@ fitControl <- trainControl(## 10-fold CV
 #######################################
 #Machine Learning Models
 
+#List of models to use based on top algorithms used in Kaggle Competitions
+model.list <- c("xgbTree", "rf", "nnet" , "glm")
+
+for (i in 1:length(model.list)){
+                cat(model.list[i]) <- train(target ~ ., 
+                                 method=model.list[i],
+                                 trControl = fitControl, 
+                                 data = training)
+}
 
 run.models <- function(training, score){
 
