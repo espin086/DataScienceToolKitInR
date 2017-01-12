@@ -47,9 +47,9 @@ prep.data <- function(dataframe){
         #Mice Imputation
         dataframe.3 <- mice.imp(dataframe)
         #Hot Encode factors
-        dataframe.4 <- hot.encode(dataframe)
+        #dataframe.4 <- hot.encode(dataframe)
         #Returning dataframe
-        results <- list(dataframe.1, dataframe.2, dataframe.3, dataframe.4)
+        results <- list(dataframe.1, dataframe.2, dataframe.3)
         return(results)
         
 }
